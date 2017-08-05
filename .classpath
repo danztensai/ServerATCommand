@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Work/lib/netty-4.1.13.Final/jar/netty-buffer-4.1.13.Final.jar" sourcepath="D:/Work/lib/netty-4.1.13.Final/jar/netty-buffer-4.1.13.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/log4j-1.2.16_2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/quartz-all-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danz/Documents/Indosis/LibSchStory/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/lib/netty-4.1.13.Final/jar/all-in-one/netty-all-4.1.13.Final.jar" sourcepath="D:/Work/lib/netty-4.1.13.Final/jar/all-in-one/netty-all-4.1.13.Final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Work/rxtx/New folder/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="D:/Work/lib/json-simple-1.1.1 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
