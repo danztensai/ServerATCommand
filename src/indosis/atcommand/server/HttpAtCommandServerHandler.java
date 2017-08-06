@@ -159,6 +159,14 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 														serialPort.setFlowControlMode(SerialPort.FLOWCONTROL_RTSCTS_IN
 																| SerialPort.FLOWCONTROL_RTSCTS_OUT);
 														serialPort.setRTS(true);
+														stsStart = true;
+														JSONObject obj = new JSONObject();
+
+														obj.put("status", "0");
+														obj.put("description", "Success");
+														obj.put("response", "Starting Comm Connection Success");
+														obj.put("yourRequest", val);
+														buf.append(obj);
 														log.info("Comm Connection Started");
 													}
 
@@ -169,20 +177,24 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 
 													} catch (PortInUseException e) {
 														buf.append(" Error : Port already In used");
+														e.printStackTrace();
 													}
 
+												}else
+												{
+													log.error("Cant Connect , Wrong PortComm,Please Check Again");
+													JSONObject obj = new JSONObject();
+
+													obj.put("status", "1");
+													obj.put("description", "Success");
+													obj.put("response", "Wrong PortComm Cant Connect");
+													obj.put("yourRequest", val);
+													buf.append(obj);
 												}
 											}
 
 										}
-										stsStart = true;
-										JSONObject obj = new JSONObject();
-
-										obj.put("status", "0");
-										obj.put("description", "Success");
-										obj.put("response", "Starting Comm Connection Success");
-										obj.put("yourRequest", val);
-										buf.append(obj);
+										
 									} else {
 										JSONObject obj = new JSONObject();
 
@@ -258,7 +270,7 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 							}else if(key.equalsIgnoreCase("sms")||key.equalsIgnoreCase("destNo"))
 							{
 								long startTime = System.currentTimeMillis();
-								log.info(startTime);
+								
 								if(key.equalsIgnoreCase("sms"))
 										{
 											sms=val;	
@@ -273,12 +285,15 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 								sendCommand(cmd);
 								
 								JSONObject obj = new JSONObject();
-
+								try {
+									Thread.sleep(1200);
+								} catch (InterruptedException e) {
+									// TODO Auto-generated catch block
+									e.printStackTrace();
+								}
 								String resp = responseUssd.substring(responseUssd.indexOf(":") + 1);
 								obj.put("status", "0");
 								obj.put("description", "Success");
-
-								obj.put("response", resp);
 								obj.put("yourRequest", val);
 								buf.append(obj);
 								long endTime   = System.currentTimeMillis();
@@ -338,7 +353,7 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 			outputStream.write(command.getBytes());
 			outputStream.write('\r');
 			outputStream.flush();
-			Thread.sleep(1000);
+			//Thread.sleep(1000);
 
 			// byte buffer[] = new byte[1000];
 			// inputStream.read(buffer);
@@ -350,10 +365,11 @@ public class HttpAtCommandServerHandler extends SimpleChannelInboundHandler<Obje
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
+//		catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
 	}
 

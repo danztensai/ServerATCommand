@@ -1,0 +1,2863 @@
+00:01:13,561  INFO HttpAtCommandServerHandler:132 - Inside path reqat
+00:01:13,568  INFO HttpAtCommandServerHandler:214 - at
+00:01:13,569  INFO HttpAtCommandServerHandler:302 - Command Inserted : at cmgs=089655394054
+00:01:14,573  INFO SerialWrite:58 - Got Something From Modem : at cmgs=089655394054
+ERROR
+
+00:01:19,571  INFO HttpAtCommandServerHandler:234 - Concat Respat cmgs=089655394054
+ERROR
+
+00:08:13,290  INFO LoggingHandler:101 - [id: 0xc3464b12, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xdf1f3b8b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55081]
+00:08:13,291  INFO LoggingHandler:101 - [id: 0xc3464b12, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+00:08:13,293  INFO HttpAtCommandServerHandler:132 - Inside path reqat
+00:08:13,294  INFO HttpAtCommandServerHandler:214 - at
+00:08:13,294  INFO HttpAtCommandServerHandler:302 - Command Inserted : at cmgs=089655394054
+00:08:14,298  INFO SerialWrite:58 - Got Something From Modem : at cmgs=089655394054
+ERROR
+
+00:08:19,296  INFO HttpAtCommandServerHandler:234 - Concat Respat cmgs=089655394054
+ERROR
+
+00:56:17,889  INFO LoggingHandler:101 - [id: 0x205c67f0] REGISTERED
+00:56:17,894  INFO LoggingHandler:101 - [id: 0x205c67f0] BIND: 0.0.0.0/0.0.0.0:8080
+00:56:17,897  INFO LoggingHandler:101 - [id: 0x205c67f0, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+00:56:34,925  INFO LoggingHandler:101 - [id: 0x205c67f0, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xf0ad666b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55260]
+00:56:34,926  INFO LoggingHandler:101 - [id: 0x205c67f0, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+00:56:34,985  INFO HttpAtCommandServerHandler:132 - Inside path reqat
+00:56:35,156  INFO HttpAtCommandServerHandler:149 - Port COM4 Found,Starting Comm Connection
+00:56:35,449  INFO HttpAtCommandServerHandler:160 - Comm Connection Started
+00:56:47,992  INFO HttpAtCommandServerHandler:132 - Inside path reqat
+00:56:47,992  INFO HttpAtCommandServerHandler:214 - at
+00:56:47,993  INFO HttpAtCommandServerHandler:302 - Command Inserted : at cmgr=39
+00:56:48,997  INFO SerialWrite:58 - Got Something From Modem : at cmgr=39
+ERROR
+
+00:56:53,994  INFO HttpAtCommandServerHandler:234 - Concat Respat cmgr=39
+ERROR
+
+00:57:09,315  INFO HttpAtCommandServerHandler:132 - Inside path reqat
+00:57:09,315  INFO HttpAtCommandServerHandler:214 - at
+00:57:09,315  INFO HttpAtCommandServerHandler:302 - Command Inserted : at+cmgr=39
+00:57:10,321  INFO SerialWrite:58 - Got Something From Modem : at+cmgr=39
++CMGR: "REC UNREAD","3636",,"17/08/05,00:42:51+28"
+‚@o•'­@ket Games Anda di *363#.
+
+OK
+
+00:57:15,318  INFO HttpAtCommandServerHandler:234 - Concat Resp "REC UNREAD","3636",,"17/08/05,00:42:51+28"
+‚@o•'­@ket Games Anda di *363#.
+
+OK
+
+02:02:25,922  INFO LoggingHandler:101 - [id: 0x8c13c5ce] REGISTERED
+02:02:25,930  INFO LoggingHandler:101 - [id: 0x8c13c5ce] BIND: 0.0.0.0/0.0.0.0:8080
+02:02:25,933  INFO LoggingHandler:101 - [id: 0x8c13c5ce, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+02:02:32,115  INFO LoggingHandler:101 - [id: 0x8c13c5ce, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfa64fee6, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55360]
+02:02:32,117  INFO LoggingHandler:101 - [id: 0x8c13c5ce, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+02:02:32,184  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+02:02:32,358  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+02:02:32,653  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+02:03:33,985  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+02:03:33,985  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgs=""hi ini cuma test loh
+02:03:34,987  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgs="+6289655394054"hi ini cuma test loh
+02:03:34,992  INFO SerialWrite:58 - Got Something From Modem : at+cmgs=""hi in
+> 
+ERROR
+i cuma test loh
+ERROR
+at+cmgs="+6289655394054"
+02:03:36,014  INFO SerialWrite:58 - Got Something From Modem : hi ini 
+> cuma test loh
+02:03:38,799  INFO SerialWrite:58 - Got Something From Modem : 
++CMGS: 11
+
+OK
+
+02:09:38,979  INFO LoggingHandler:101 - [id: 0x8c13c5ce, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x6e727c56, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55375]
+02:09:38,980  INFO LoggingHandler:101 - [id: 0x8c13c5ce, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+08:49:07,465  INFO LoggingHandler:101 - [id: 0x924ca61a] REGISTERED
+08:49:07,474  INFO LoggingHandler:101 - [id: 0x924ca61a] BIND: 0.0.0.0/0.0.0.0:8080
+08:49:07,477  INFO LoggingHandler:101 - [id: 0x924ca61a, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+08:49:07,618  INFO LoggingHandler:101 - [id: 0x924ca61a, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x8ec03bf4, L:/127.0.0.1:8080 - R:/127.0.0.1:55850]
+08:49:07,619  INFO LoggingHandler:101 - [id: 0x924ca61a, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+08:49:07,661  INFO LoggingHandler:101 - [id: 0x924ca61a, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x7babc403, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55851]
+08:49:07,661  INFO LoggingHandler:101 - [id: 0x924ca61a, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+08:49:07,684  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:49:07,685  INFO HttpAtCommandServerHandler:216 - *8
+08:49:07,685  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cusd=1,*808#
+08:49:23,737  INFO LoggingHandler:101 - [id: 0x1a974330] REGISTERED
+08:49:23,743  INFO LoggingHandler:101 - [id: 0x1a974330] BIND: 0.0.0.0/0.0.0.0:8080
+08:49:23,745  INFO LoggingHandler:101 - [id: 0x1a974330, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+08:49:28,841  INFO LoggingHandler:101 - [id: 0x1a974330, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x13abbf68, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55921]
+08:49:28,842  INFO LoggingHandler:101 - [id: 0x1a974330, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+08:49:28,898  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:49:29,133  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+08:49:29,432  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+08:49:38,448  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:49:38,448  INFO HttpAtCommandServerHandler:216 - *8
+08:49:38,448  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cusd=1,*808#
+08:49:39,492  INFO SerialWrite:58 - Got Something From Modem : 
+OK
+
+08:49:43,514  INFO SerialWrite:58 - Got Something From Modem : 
++CUSD: 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta  berbagai promo berhadiah  hub *500#",0
+
+08:49:44,451  INFO HttpAtCommandServerHandler:236 - Concat Resp 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta  berbagai promo berhadiah  hub *500#",0
+
+08:49:49,230  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",40
+
+08:49:49,230  INFO SerialWrite:62 - Got SMS
+08:49:49,231  INFO SerialWrite:64 - 40
+
+08:50:21,458  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:50:21,458  INFO HttpAtCommandServerHandler:216 - at
+08:50:21,458  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgr=40
+08:50:22,760  INFO SerialWrite:58 - Got Something From Modem : 
++CMGR: 0,,154
+069126180100000409D0391C0E87030000718050808470829BCE77FB2D0705DDE4304807B2C970B1998C0683E56C399A0BC40CE7C3EEB01B9476A741E4F4BAEC0EAFC36E103D2C4F9B415238485603A1E865793B3CAFAF4150A833E50225DDE6376838D58162381C4858968BC3E734085A67CFC3A07519442FB7C36E1039EC06ADCBF2B0384C0791CF6E10551E76CFCD6539085A67CFC320745D0C52E16AB8910B
+
+OK
+
+08:50:27,460  INFO HttpAtCommandServerHandler:236 - Concat Resp 0,,154
+069126180100000409D0391C0E87030000718050808470829BCE77FB2D0705DDE4304807B2C970B1998C0683E56C399A0BC40CE7C3EEB01B9476A741E4F4BAEC0EAFC36E103D2C4F9B415238485603A1E865793B3CAFAF4150A833E50225DDE6376838D58162381C4858968BC3E734085A67CFC3A07519442FB7C36E1039EC06ADCBF2B0384C0791CF6E10551E76CFCD6539085A67CFC320745D0C52E16AB8910B
+
+OK
+
+08:50:57,480  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:50:57,480  INFO HttpAtCommandServerHandler:216 - at
+08:50:57,481  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgr=40
+08:50:58,768  INFO SerialWrite:58 - Got Something From Modem : 
++CMGR: 1,,154
+069126180100000409D0391C0E87030000718050808470829BCE77FB2D0705DDE4304807B2C970B1998C0683E56C399A0BC40CE7C3EEB01B9476A741E4F4BAEC0EAFC36E103D2C4F9B415238485603A1E865793B3CAFAF4150A833E50225DDE6376838D58162381C4858968BC3E734085A67CFC3A07519442FB7C36E1039EC06ADCBF2B0384C0791CF6E10551E76CFCD6539085A67CFC320745D0C52E16AB8910B
+
+OK
+
+08:51:03,483  INFO HttpAtCommandServerHandler:236 - Concat Resp 1,,154
+069126180100000409D0391C0E87030000718050808470829BCE77FB2D0705DDE4304807B2C970B1998C0683E56C399A0BC40CE7C3EEB01B9476A741E4F4BAEC0EAFC36E103D2C4F9B415238485603A1E865793B3CAFAF4150A833E50225DDE6376838D58162381C4858968BC3E734085A67CFC3A07519442FB7C36E1039EC06ADCBF2B0384C0791CF6E10551E76CFCD6539085A67CFC320745D0C52E16AB8910B
+
+OK
+
+08:51:15,723  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:51:15,723  INFO HttpAtCommandServerHandler:216 - at
+08:51:15,723  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgr=39
+08:51:17,000  INFO SerialWrite:58 - Got Something From Modem : 
++CMGR: 1,,45
+069126180100004407D033DBCC060011718050002415821F050003710202D6653AE8186E97E7A0A09B1C0691D320D5CC361BB900
+
+OK
+
+08:51:21,726  INFO HttpAtCommandServerHandler:236 - Concat Resp 1,,45
+069126180100004407D033DBCC060011718050002415821F050003710202D6653AE8186E97E7A0A09B1C0691D320D5CC361BB900
+
+OK
+
+08:54:55,014  INFO LoggingHandler:101 - [id: 0x62414382] REGISTERED
+08:54:55,019  INFO LoggingHandler:101 - [id: 0x62414382] BIND: 0.0.0.0/0.0.0.0:8080
+08:54:55,022  INFO LoggingHandler:101 - [id: 0x62414382, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+08:55:11,163  INFO LoggingHandler:101 - [id: 0x62414382, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x49ee8ed4, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:55965]
+08:55:11,164  INFO LoggingHandler:101 - [id: 0x62414382, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+08:55:11,229  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:55:11,405  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+08:55:11,703  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+08:55:20,114  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:55:20,114  INFO HttpAtCommandServerHandler:216 - at
+08:55:20,115  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgr=40
+08:55:21,120  INFO SerialWrite:58 - Got Something From Modem : at+cmgr=40
++CMGR: "REC READ","98888",,"17/08/05,08:48:07+28"
+Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+08:55:26,118  INFO HttpAtCommandServerHandler:236 - Concat Resp "REC READ","98888",,"17/08/05,08:48:07+28"
+Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+08:57:26,660  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:57:26,661  INFO HttpAtCommandServerHandler:216 - at
+08:57:26,661  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cmgr=41
+08:57:27,667  INFO SerialWrite:58 - Got Something From Modem : at+cmgr=41
+ERROR
+
+08:57:32,663  INFO HttpAtCommandServerHandler:236 - Concat Respat+cmgr=41
+ERROR
+
+08:57:40,490  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+08:57:40,490  INFO HttpAtCommandServerHandler:216 - *8
+08:57:40,491  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cusd=1,*808#
+08:57:41,496  INFO SerialWrite:58 - Got Something From Modem : at+cusd=1,*808#
+OK
+
+08:57:45,342  INFO SerialWrite:58 - Got Something From Modem : 
++CUSD: 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta berbagai promo berhadiah  hub *500#,",0
+
+08:57:46,492  INFO HttpAtCommandServerHandler:236 - Concat Resp 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta berbagai promo berhadiah  hub *500#,",0
+
+10:58:05,005  INFO LoggingHandler:101 - [id: 0x62414382, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe2942941, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56082]
+10:58:05,014  INFO LoggingHandler:101 - [id: 0x62414382, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+10:58:05,025  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+10:58:05,025  INFO HttpAtCommandServerHandler:216 - AT
+10:58:05,026  INFO HttpAtCommandServerHandler:317 - Command Inserted : AT+CMGD=?
+10:58:06,030  INFO SerialWrite:58 - Got Something From Modem : AT+CMGD=?
+OK
+
+10:58:11,029  INFO HttpAtCommandServerHandler:236 - Concat RespAT+CMGD=?
+OK
+
+10:58:45,889  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+10:58:45,889  INFO HttpAtCommandServerHandler:216 - AT
+10:58:45,889  INFO HttpAtCommandServerHandler:317 - Command Inserted : AT+CMGL=?
+10:58:46,893  INFO SerialWrite:58 - Got Something From Modem : AT+CMGL=?
++CMGL: ("REC UNREAD","REC READ","STO UNSENT","STO SENT","ALL")
+
+OK
+
+10:58:51,891  INFO HttpAtCommandServerHandler:236 - Concat Resp ("REC UNREAD","REC READ","STO UNSENT","STO SENT","ALL")
+
+OK
+
+11:48:55,515  INFO LoggingHandler:101 - [id: 0x4451e022] REGISTERED
+11:48:55,520  INFO LoggingHandler:101 - [id: 0x4451e022] BIND: 0.0.0.0/0.0.0.0:8080
+11:48:55,523  INFO LoggingHandler:101 - [id: 0x4451e022, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+11:49:04,225  INFO LoggingHandler:101 - [id: 0x4451e022, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x42d727b4, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56239]
+11:49:04,226  INFO LoggingHandler:101 - [id: 0x4451e022, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+11:49:04,283  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+11:49:04,459  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+11:49:04,753  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+11:49:24,925  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",5
+
+11:49:24,925  INFO SerialWrite:62 - Got SMS
+11:49:24,925  INFO SerialWrite:64 - 5
+
+11:49:24,925  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+CMGR=5
+
+11:49:26,929  INFO SerialWrite:58 - Got Something From Modem : at+CMGR=5
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,11:47:48+28"
+Ooooooooop
+
+OK
+
+11:55:15,775  INFO LoggingHandler:101 - [id: 0x6aaada51] REGISTERED
+11:55:15,780  INFO LoggingHandler:101 - [id: 0x6aaada51] BIND: 0.0.0.0/0.0.0.0:8080
+11:55:15,782  INFO LoggingHandler:101 - [id: 0x6aaada51, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+11:55:18,683  INFO LoggingHandler:101 - [id: 0x6aaada51, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfea11a9f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56283]
+11:55:18,684  INFO LoggingHandler:101 - [id: 0x6aaada51, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+11:55:18,739  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+11:55:18,914  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+11:55:19,210  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+11:55:40,602  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",6
+
+11:55:40,602  INFO SerialWrite:62 - Got SMS
+11:55:40,602  INFO SerialWrite:64 - 6
+
+11:55:40,602  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+CMGR=6
+
+11:55:42,624  INFO SerialWrite:58 - Got Something From Modem : at+CMGR=6
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,11:54:03+28"
+Iiiiiiiiiitirjrjrjf
+
+OK
+
+11:55:42,624  INFO SerialWrite:70 - : "REC UNREAD","+6289655394054",,"17/08/05,11:54:03+28"
+Iiiiiiiiiitirjrjrjf
+
+OK
+
+11:55:42,624  INFO SerialWrite:73 - arrayConcatMSG :: "REC UNREAD"
+11:55:42,624  INFO SerialWrite:73 - arrayConcatMSG :"+6289655394054"
+11:55:42,625  INFO SerialWrite:73 - arrayConcatMSG :,"17/08/05,11:54:03+28"
+Iiiiiiiiiitirjrjrjf
+
+OK
+
+11:55:42,626  INFO SerialWrite:76 - From : ,"17/08/05,11:54:03+28"
+Iiiiiiiiiitirjrjrjf
+
+OK
+
+SMS : Iiiiiiiiiitirjrjrjf
+
+OK
+
+11:56:56,379  INFO LoggingHandler:101 - [id: 0x9acaac36] REGISTERED
+11:56:56,384  INFO LoggingHandler:101 - [id: 0x9acaac36] BIND: 0.0.0.0/0.0.0.0:8080
+11:56:56,387  INFO LoggingHandler:101 - [id: 0x9acaac36, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+11:57:10,515  INFO LoggingHandler:101 - [id: 0x9acaac36, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb9a173a4, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56320]
+11:57:10,516  INFO LoggingHandler:101 - [id: 0x9acaac36, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+11:57:10,572  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+11:57:10,745  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+11:57:11,041  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+11:57:25,230  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",7
+
+11:57:25,230  INFO SerialWrite:62 - Got SMS
+11:57:25,230  INFO SerialWrite:64 - 7
+
+11:57:25,230  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+CMGR=7
+
+11:57:27,253  INFO SerialWrite:58 - Got Something From Modem : at+CMGR=7
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,11:55:48+28"
+Teeee33333
+
+OK
+
+11:57:27,253  INFO SerialWrite:70 -  "REC UNREAD","+6289655394054",,"17/08/05,11:55:48+28"
+Teeee33333
+
+OK
+
+11:57:27,253  INFO SerialWrite:73 - arrayConcatMSG : "REC UNREAD"
+11:57:27,253  INFO SerialWrite:73 - arrayConcatMSG :"+6289655394054"
+11:57:27,254  INFO SerialWrite:73 - arrayConcatMSG :,"17/08/05,11:55:48+28"
+Teeee33333
+
+OK
+
+11:57:27,256  INFO SerialWrite:76 - From : +6289655394054
+SMS : Teeee33333
+
+OK
+
+12:01:17,419  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:20,298  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:23,178  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:26,058  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:28,938  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:31,820  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:34,700  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:01:37,579  INFO SerialWrite:58 - Got Something From Modem : 
+RING
+
+12:07:45,009  INFO LoggingHandler:101 - [id: 0x9acaac36, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc36644eb, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56378]
+12:07:45,009  INFO LoggingHandler:101 - [id: 0x9acaac36, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:07:45,014  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:07:45,014  INFO HttpAtCommandServerHandler:216 - *8
+12:07:45,015  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+cusd=1,*808#
+12:07:46,019  INFO SerialWrite:58 - Got Something From Modem : at+cusd=1,*808#
+OK
+
+12:07:50,134  INFO SerialWrite:58 - Got Something From Modem : 
++CUSD: 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta berbagai promo berhadiah  hub *500#,",0
+
+12:07:51,017  INFO HttpAtCommandServerHandler:236 - Concat Resp 2,"Nomor Anda:081324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188. Mau Konten Artis & Hiburan beserta berbagai promo berhadiah  hub *500#,",0
+
+12:07:54,817  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",8
+
+12:07:54,817  INFO SerialWrite:62 - Got SMS
+12:07:54,817  INFO SerialWrite:64 - 8
+
+12:07:54,817  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+CMGR=8
+
+12:07:56,821  INFO SerialWrite:58 - Got Something From Modem : at+CMGR=8
+
++CMGR: "REC UNREAD","98888",,"17/08/05,12:06:14+28"
+Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+12:07:56,821  INFO SerialWrite:70 -  "REC UNREAD","98888",,"17/08/05,12:06:14+28"
+Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+12:07:56,821  INFO SerialWrite:73 - arrayConcatMSG : "REC UNREAD"
+12:07:56,821  INFO SerialWrite:73 - arrayConcatMSG :"98888"
+12:07:56,821  INFO SerialWrite:73 - arrayConcatMSG :,"17/08/05,12:06:14+28"
+Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+12:07:56,821  INFO SerialWrite:76 - From : 98888
+SMS : Nomor Anda : 6281324009694. Layanan ini dikenakan tarif Rp 25 (termasuk PPN). Info CS: 188 Berbagi Pulsa ke teman dan kerabat dgn Transfer Pulsa hub *858#.
+
+OK
+
+12:21:45,018  INFO SerialWrite:58 - Got Something From Modem : 
++CMTI: "SM",9
+
+12:21:45,018  INFO SerialWrite:62 - Got SMS
+12:21:45,018  INFO SerialWrite:64 - 9
+
+12:21:45,018  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+CMGR=9
+
+12:21:47,023  INFO SerialWrite:58 - Got Something From Modem : at+CMGR=9
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,12:20:08+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:21:47,023  INFO SerialWrite:70 -  "REC UNREAD","+6281394098892",,"17/08/05,12:20:08+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:21:47,023  INFO SerialWrite:73 - arrayConcatMSG : "REC UNREAD"
+12:21:47,023  INFO SerialWrite:73 - arrayConcatMSG :"+6281394098892"
+12:21:47,023  INFO SerialWrite:73 - arrayConcatMSG :,"17/08/05,12:20:08+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:21:47,023  INFO SerialWrite:76 - From : +6281394098892
+SMS : BMT 081394098892 SN5 7777
+
+OK
+
+12:40:07,088  INFO LoggingHandler:101 - [id: 0x35a982b9] REGISTERED
+12:40:07,093  INFO LoggingHandler:101 - [id: 0x35a982b9] BIND: 0.0.0.0/0.0.0.0:8080
+12:40:07,095  INFO LoggingHandler:101 - [id: 0x35a982b9, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:41:11,432  INFO LoggingHandler:101 - [id: 0x35a982b9, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa78afc46, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56475]
+12:41:11,433  INFO LoggingHandler:101 - [id: 0x35a982b9, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:41:11,489  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:41:11,661  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:44:59,891  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:44:59,891  INFO HttpAtCommandServerHandler:216 - *8
+12:44:59,891  INFO HttpAtCommandServerHandler:320 - Command Inserted : at+cusd=1,*808#
+12:45:05,894  INFO HttpAtCommandServerHandler:236 - Concat Resp
+12:45:39,421  INFO LoggingHandler:101 - [id: 0x3d74aead] REGISTERED
+12:45:39,426  INFO LoggingHandler:101 - [id: 0x3d74aead] BIND: 0.0.0.0/0.0.0.0:8080
+12:45:39,429  INFO LoggingHandler:101 - [id: 0x3d74aead, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:45:43,856  INFO LoggingHandler:101 - [id: 0x3d74aead, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xac3e1653, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56554]
+12:45:43,857  INFO LoggingHandler:101 - [id: 0x3d74aead, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:45:43,913  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:45:44,107  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:50:10,140  INFO LoggingHandler:101 - [id: 0x3891cb7a] REGISTERED
+12:50:10,145  INFO LoggingHandler:101 - [id: 0x3891cb7a] BIND: 0.0.0.0/0.0.0.0:8080
+12:50:10,147  INFO LoggingHandler:101 - [id: 0x3891cb7a, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:50:18,472  INFO LoggingHandler:101 - [id: 0x3891cb7a, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfdc68c51, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56598]
+12:50:18,474  INFO LoggingHandler:101 - [id: 0x3891cb7a, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:50:18,529  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:50:18,704  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:50:32,644  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:50:32,644  INFO HttpAtCommandServerHandler:216 - at
+12:50:32,644  INFO HttpAtCommandServerHandler:317 - Command Inserted : at csq
+12:50:38,646  INFO HttpAtCommandServerHandler:236 - Concat Resp
+12:50:48,735  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:50:48,735  INFO HttpAtCommandServerHandler:216 - at
+12:50:48,735  INFO HttpAtCommandServerHandler:317 - Command Inserted : at+csq
+12:50:54,735  INFO HttpAtCommandServerHandler:236 - Concat Resp
+12:51:59,888  INFO LoggingHandler:101 - [id: 0xc39c173b] REGISTERED
+12:51:59,893  INFO LoggingHandler:101 - [id: 0xc39c173b] BIND: 0.0.0.0/0.0.0.0:8080
+12:51:59,895  INFO LoggingHandler:101 - [id: 0xc39c173b, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:52:07,128  INFO LoggingHandler:101 - [id: 0xc39c173b, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb66a5ced, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56633]
+12:52:07,129  INFO LoggingHandler:101 - [id: 0xc39c173b, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:52:07,183  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:52:07,524  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:52:07,820  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+12:53:18,734  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",13
+
+12:53:18,734  INFO SerialWrite:64 - Got SMS
+12:53:18,734  INFO SerialWrite:66 - 13
+
+12:53:18,734  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=13
+
+12:53:20,738  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=13
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,12:51:42+28"
+Teeshhjkjk
+
+OK
+
+12:53:20,738  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,12:51:42+28"
+Teeshhjkjk
+
+OK
+
+12:53:20,738  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+12:53:20,738  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+12:53:20,739  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,12:51:42+28"
+Teeshhjkjk
+
+OK
+
+12:53:20,740  INFO SerialWrite:79 - From : +6289655394054SMS : Teeshhjkjk
+
+OK
+
+12:53:20,742  INFO WebUtil:50 - text=sender
+12:53:20,742  INFO WebUtil:56 - http://localhost/smsTest/test.php?
+12:54:22,217  INFO LoggingHandler:101 - [id: 0x93f06668] REGISTERED
+12:54:22,222  INFO LoggingHandler:101 - [id: 0x93f06668] BIND: 0.0.0.0/0.0.0.0:8080
+12:54:22,224  INFO LoggingHandler:101 - [id: 0x93f06668, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:54:27,143  INFO LoggingHandler:101 - [id: 0x93f06668, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x2c650e4f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56707]
+12:54:27,144  INFO LoggingHandler:101 - [id: 0x93f06668, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:54:27,199  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:54:27,373  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:54:27,670  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+12:55:06,887  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:55:06,888  INFO HttpAtCommandServerHandler:218 - at
+12:55:06,888  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+csq
+12:55:07,893  INFO SerialWrite:60 - Got Something From Modem : at+csq
++CSQ: 26,0
+
+OK
+
+12:55:12,889  INFO HttpAtCommandServerHandler:238 - Concat Resp 26,0
+
+OK
+
+12:56:30,331  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",14
+
+12:56:30,331  INFO SerialWrite:64 - Got SMS
+12:56:30,331  INFO SerialWrite:66 - 14
+
+12:56:30,332  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=14
+
+12:56:32,336  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=14
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,12:54:53+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:56:32,336  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,12:54:53+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:56:32,336  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+12:56:32,336  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+12:56:32,336  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,12:54:53+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+12:56:32,337  INFO SerialWrite:79 - From : +6281394098892 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+12:56:32,338  INFO WebUtil:50 - text=sender
+12:56:32,338  INFO SerialWrite:81 - Paramtext=sender
+12:56:32,339  INFO WebUtil:56 - http://localhost/smsTest/test.php?
+12:56:32,349  INFO SerialWrite:84 - <br /><b>Notice</b>:  Undefined index: text in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>2</b><br /><br /><b>Notice</b>:  Undefined index: sender in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>3</b><br />|Sender :  |SMS :   | 
+12:59:37,745  INFO LoggingHandler:101 - [id: 0xbb724aa7] REGISTERED
+12:59:37,750  INFO LoggingHandler:101 - [id: 0xbb724aa7] BIND: 0.0.0.0/0.0.0.0:8080
+12:59:37,752  INFO LoggingHandler:101 - [id: 0xbb724aa7, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+12:59:49,309  INFO LoggingHandler:101 - [id: 0xbb724aa7, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc4ff865f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56746]
+12:59:49,310  INFO LoggingHandler:101 - [id: 0xbb724aa7, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+12:59:49,367  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+12:59:49,541  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+12:59:49,836  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:00:04,692  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",15
+
+13:00:04,692  INFO SerialWrite:64 - Got SMS
+13:00:04,692  INFO SerialWrite:66 - 15
+
+13:00:04,693  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=15
+
+13:00:06,697  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=15
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,12:58:28+28"
+I want pussy
+
+OK
+
+13:00:06,697  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,12:58:28+28"
+I want pussy
+
+OK
+
+13:00:06,697  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:00:06,697  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+13:00:06,699  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,12:58:28+28"
+I want pussy
+
+OK
+
+13:00:06,699  INFO SerialWrite:79 - From : +6281394098892 SMS : I want pussy
+
+OK
+
+13:00:06,701  INFO WebUtil:52 - text=I+want+pussy%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:00:06,701  INFO SerialWrite:81 - Paramtext=I+want+pussy%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:00:06,701  INFO WebUtil:58 - http://localhost/smsTest/test.php?
+13:00:06,710  INFO SerialWrite:84 - <br /><b>Notice</b>:  Undefined index: text in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>2</b><br /><br /><b>Notice</b>:  Undefined index: sender in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>3</b><br />|Sender :  |SMS :   | 
+13:00:12,203  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",16
+
+13:00:12,203  INFO SerialWrite:64 - Got SMS
+13:00:12,203  INFO SerialWrite:66 - 16
+
+13:00:12,203  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=16
+
+13:00:14,207  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=16
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,12:58:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:00:14,207  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,12:58:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:00:14,207  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:00:14,207  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+13:00:14,207  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,12:58:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:00:14,207  INFO SerialWrite:79 - From : +6281394098892 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+13:00:14,207  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:00:14,208  INFO SerialWrite:81 - Paramtext=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:00:14,208  INFO WebUtil:58 - http://localhost/smsTest/test.php?
+13:00:14,210  INFO SerialWrite:84 - <br /><b>Notice</b>:  Undefined index: text in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>2</b><br /><br /><b>Notice</b>:  Undefined index: sender in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>3</b><br />|Sender :  |SMS :   | 
+13:01:12,509  INFO LoggingHandler:101 - [id: 0x58309d41] REGISTERED
+13:01:12,515  INFO LoggingHandler:101 - [id: 0x58309d41] BIND: 0.0.0.0/0.0.0.0:8080
+13:01:12,517  INFO LoggingHandler:101 - [id: 0x58309d41, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:01:16,148  INFO LoggingHandler:101 - [id: 0x58309d41, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x79a9ce30, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56786]
+13:01:16,149  INFO LoggingHandler:101 - [id: 0x58309d41, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:01:16,204  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:01:16,379  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:01:16,674  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:02:58,625  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",17
+
+13:02:58,625  INFO SerialWrite:64 - Got SMS
+13:02:58,625  INFO SerialWrite:66 - 17
+
+13:02:58,625  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=17
+
+13:03:00,647  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=17
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,13:01:21+28"
+Hjihuhhbh
+
+OK
+
+13:03:00,647  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,13:01:21+28"
+Hjihuhhbh
+
+OK
+
+13:03:00,647  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:03:00,647  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+13:03:00,648  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:01:21+28"
+Hjihuhhbh
+
+OK
+
+13:03:00,649  INFO SerialWrite:79 - From : +6289655394054 SMS : Hjihuhhbh
+
+OK
+
+13:03:00,651  INFO WebUtil:52 - text=Hjihuhhbh%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:03:00,651  INFO SerialWrite:81 - Paramtext=Hjihuhhbh%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:03:00,651  INFO WebUtil:58 - http://localhost/smsTest/test.php?text=Hjihuhhbh%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:03:00,660  INFO SerialWrite:84 - |Sender : +6289655394054 |SMS :  HjihuhhbhOK | 
+13:04:19,842  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",18
+
+13:04:19,842  INFO SerialWrite:64 - Got SMS
+13:04:19,842  INFO SerialWrite:66 - 18
+
+13:04:19,842  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=18
+
+13:04:21,846  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=18
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,13:02:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:04:21,846  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,13:02:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:04:21,846  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:04:21,846  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+13:04:21,846  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:02:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:04:21,846  INFO SerialWrite:79 - From : +6281394098892 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+13:04:21,846  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:04:21,847  INFO SerialWrite:81 - Paramtext=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:04:21,847  INFO WebUtil:58 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:04:21,849  INFO SerialWrite:84 - |Sender : +6281394098892 |SMS :  BMT 081394098892 SN5 7777OK | 
+13:16:16,980  INFO LoggingHandler:101 - [id: 0x700b61ee] REGISTERED
+13:16:16,985  INFO LoggingHandler:101 - [id: 0x700b61ee] BIND: 0.0.0.0/0.0.0.0:8080
+13:16:16,988  INFO LoggingHandler:101 - [id: 0x700b61ee, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:16:21,709  INFO LoggingHandler:101 - [id: 0x700b61ee, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0f95de58, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56864]
+13:16:21,710  INFO LoggingHandler:101 - [id: 0x700b61ee, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:16:21,765  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:16:21,936  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:16:22,235  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:16:48,586  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",19
+
+13:16:48,586  INFO SerialWrite:64 - Got SMS
+13:16:48,586  INFO SerialWrite:66 - 19
+
+13:16:48,586  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+CMGR=19
+
+13:16:50,590  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=19
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,13:15:12+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:16:50,590  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,13:15:12+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:16:50,590  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:16:50,590  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+13:16:50,591  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:15:12+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:16:50,592  INFO SerialWrite:79 - From : +6281394098892 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+13:16:50,593  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:16:50,594  INFO SerialWrite:81 - Param : text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:16:50,594  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:16:50,604  INFO SerialWrite:84 - Response From url|Sender : +6281394098892 |SMS :  BMT 081394098892 SN5 7777OK | 
+13:16:50,604  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6281394098892
+13:16:50,604  INFO WebUtil:75 - http://localhost:8080/reqat?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6281394098892
+13:16:50,605  INFO LoggingHandler:101 - [id: 0x700b61ee, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc3d44e5f, L:/127.0.0.1:8080 - R:/127.0.0.1:56867]
+13:16:50,606  INFO LoggingHandler:101 - [id: 0x700b61ee, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:16:50,607  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:16:50,608  INFO SerialWrite:87 - Param SMS Gtw : sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6281394098892
+13:16:50,608  INFO SerialWrite:88 - Response From SMSGTW : 
+13:18:35,413  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:18:35,413  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:18:36,414  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+cmgs="+6281394098892"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:18:36,417  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+at
+13:18:37,420  INFO SerialWrite:60 - Got Something From Modem : +cmgs="+6281394098892"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+> 
+> 
+> 
+13:18:40,245  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 12
+
+OK
+
+13:20:13,169  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:20:13,169  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+cmgs=""hi ini cuma test loh
+13:20:14,171  INFO HttpAtCommandServerHandler:319 - Command Inserted : at+cmgs="+6289655394054"hi ini cuma test loh
+13:20:14,175  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""hi in
+> 
+ERROR
+i cuma test loh
+ERROR
+at+cmgs="+628
+13:20:15,177  INFO SerialWrite:60 - Got Something From Modem : 9655394054"hi ini 
+> cuma test loh
+13:20:17,728  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 13
+
+OK
+
+13:22:23,872  INFO LoggingHandler:101 - [id: 0x047cfb13] REGISTERED
+13:22:23,877  INFO LoggingHandler:101 - [id: 0x047cfb13] BIND: 0.0.0.0/0.0.0.0:8080
+13:22:23,879  INFO LoggingHandler:101 - [id: 0x047cfb13, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:22:52,496  INFO LoggingHandler:101 - [id: 0x047cfb13, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x078cb199, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56905]
+13:22:52,497  INFO LoggingHandler:101 - [id: 0x047cfb13, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:22:54,690  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:22:54,865  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:22:55,162  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:23:13,533  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:23:13,534  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:23:14,537  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+13:23:19,535  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:23:20,540  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+> 
+> 
+> 
+13:23:23,265  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 14
+
+OK
+
+13:25:15,735  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:25:15,735  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+13:25:16,742  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777
+ERROR
+
+13:25:21,740  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+13:25:22,744  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+13:25:25,298  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 15
+
+OK
+
+13:25:57,079  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",20
+
+13:25:57,079  INFO SerialWrite:64 - Got SMS
+13:25:57,079  INFO SerialWrite:66 - 20
+
+13:25:57,079  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=20
+
+13:25:59,084  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=20
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,13:24:20+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:25:59,084  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,13:24:20+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:25:59,084  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:25:59,084  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+13:25:59,084  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:24:20+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:25:59,085  INFO SerialWrite:79 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+13:25:59,086  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:25:59,086  INFO SerialWrite:81 - Param : text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:25:59,086  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:25:59,096  INFO SerialWrite:84 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777OK | 
+13:25:59,096  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:25:59,096  INFO WebUtil:75 - http://localhost:8080/reqat?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:25:59,097  INFO LoggingHandler:101 - [id: 0x047cfb13, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x97eefb77, L:/127.0.0.1:8080 - R:/127.0.0.1:56911]
+13:25:59,098  INFO LoggingHandler:101 - [id: 0x047cfb13, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:25:59,099  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:25:59,100  INFO SerialWrite:87 - Param SMS Gtw : sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:25:59,100  INFO SerialWrite:88 - Response From SMSGTW : 
+13:35:14,527  INFO LoggingHandler:101 - [id: 0x00005ab7] REGISTERED
+13:35:14,532  INFO LoggingHandler:101 - [id: 0x00005ab7] BIND: 0.0.0.0/0.0.0.0:8080
+13:35:14,534  INFO LoggingHandler:101 - [id: 0x00005ab7, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:37:12,415  INFO LoggingHandler:101 - [id: 0x00005ab7, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x91983740, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56953]
+13:37:12,416  INFO LoggingHandler:101 - [id: 0x00005ab7, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:37:12,472  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:37:12,645  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:37:12,941  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:37:37,136  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",21
+
+13:37:37,136  INFO SerialWrite:64 - Got SMS
+13:37:37,136  INFO SerialWrite:66 - 21
+
+13:37:37,136  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=21
+
+13:37:39,138  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=21
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,13:36:00+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:37:39,138  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,13:36:00+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:37:39,138  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:37:39,139  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+13:37:39,140  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:36:00+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:37:39,140  INFO SerialWrite:79 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+
+OK
+
+13:37:39,142  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:37:39,142  INFO SerialWrite:81 - Param : text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:37:39,142  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:37:39,152  INFO SerialWrite:84 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777OK | 
+13:37:39,153  INFO SerialWrite:85 - BMT 081394098892 SN5 7777
+
+
+
+13:37:39,153  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:37:39,153  INFO WebUtil:75 - http://localhost:8080/reqat?text=BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&sender=%2B6289655394054
+13:37:39,154  INFO LoggingHandler:101 - [id: 0x00005ab7, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x46866e78, L:/127.0.0.1:8080 - R:/127.0.0.1:56956]
+13:37:39,154  INFO LoggingHandler:101 - [id: 0x00005ab7, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:37:39,156  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:37:39,156  INFO SerialWrite:88 - Param SMS Gtw : sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:37:39,157  INFO SerialWrite:89 - Response From SMSGTW : 
+13:41:11,670  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:41:12,688 ERROR WebUtil:98 - java.net.ConnectException: Connection refused: connect
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:579)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:997)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:933)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:851)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1301)
+	at indosis.atcommand.util.WebUtil.getDataFromWeb(WebUtil.java:86)
+	at indosis.atcommand.util.WebUtil.main(WebUtil.java:105)
+13:41:19,994  INFO LoggingHandler:101 - [id: 0x4a12210c] REGISTERED
+13:41:19,999  INFO LoggingHandler:101 - [id: 0x4a12210c] BIND: 0.0.0.0/0.0.0.0:8080
+13:41:20,002  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:41:55,424  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb900d822, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:56999]
+13:41:55,425  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:41:55,480  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:41:55,656  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:41:55,954  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:42:09,920  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:42:09,936  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4c9bcad7, L:/127.0.0.1:8080 - R:/127.0.0.1:57000]
+13:42:09,937  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:42:09,938  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:42:09,938  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:42:10,943  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+13:42:15,940  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:42:15,938 ERROR WebUtil:98 - java.net.SocketTimeoutException: Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:152)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:687)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+	at indosis.atcommand.util.WebUtil.getDataFromWeb(WebUtil.java:86)
+	at indosis.atcommand.util.WebUtil.main(WebUtil.java:105)
+13:42:16,943  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+> 
+> 
+> 
+13:42:19,442  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 16
+
+OK
+
+13:43:10,754  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:43:10,770  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xccf54d31, L:/127.0.0.1:8080 - R:/127.0.0.1:57001]
+13:43:10,771  INFO LoggingHandler:101 - [id: 0x4a12210c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:43:10,772  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:43:10,773  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:43:11,777  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+13:43:16,774  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:43:17,779  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+> 
+> 
+> 
+13:43:20,585  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 17
+
+OK
+
+13:43:22,773 ERROR WebUtil:98 - java.net.SocketTimeoutException: Read timed out
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:152)
+	at java.net.SocketInputStream.read(SocketInputStream.java:122)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:235)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:275)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:687)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+	at indosis.atcommand.util.WebUtil.getDataFromWeb(WebUtil.java:86)
+	at indosis.atcommand.util.WebUtil.main(WebUtil.java:105)
+13:44:20,486  INFO LoggingHandler:101 - [id: 0x96137b1c] REGISTERED
+13:44:20,491  INFO LoggingHandler:101 - [id: 0x96137b1c] BIND: 0.0.0.0/0.0.0.0:8080
+13:44:20,493  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:45:29,519  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777&destNo=%2B6289655394054
+13:45:29,543  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x541204fd, L:/127.0.0.1:8080 - R:/127.0.0.1:57036]
+13:45:29,544  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:45:29,598  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:45:29,598  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:45:29,602  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xbe1033a5, L:/127.0.0.1:8080 - R:/127.0.0.1:57037]
+13:45:29,602  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:45:29,604  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:45:29,604  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:45:29,606 ERROR WebUtil:98 - java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:772)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:769)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+	at indosis.atcommand.util.WebUtil.getDataFromWeb(WebUtil.java:86)
+	at indosis.atcommand.util.WebUtil.main(WebUtil.java:105)
+13:45:39,284  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0A%0D%0AOK%0D%0A&destNo=%2B6289655394054
+13:45:39,299  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb8667677, L:/127.0.0.1:8080 - R:/127.0.0.1:57040]
+13:45:39,300  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:45:39,301  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:45:39,301  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:45:39,304  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xbf64c263, L:/127.0.0.1:8080 - R:/127.0.0.1:57041]
+13:45:39,306  INFO LoggingHandler:101 - [id: 0x96137b1c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:45:39,307  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:45:39,307  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+13:45:39,310 ERROR WebUtil:98 - java.net.SocketException: Unexpected end of file from server
+java.net.SocketException: Unexpected end of file from server
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:772)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:769)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:633)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1324)
+	at indosis.atcommand.util.WebUtil.getDataFromWeb(WebUtil.java:86)
+	at indosis.atcommand.util.WebUtil.main(WebUtil.java:105)
+13:46:13,266  INFO LoggingHandler:101 - [id: 0x49ee4c43] REGISTERED
+13:46:13,271  INFO LoggingHandler:101 - [id: 0x49ee4c43] BIND: 0.0.0.0/0.0.0.0:8080
+13:46:13,273  INFO LoggingHandler:101 - [id: 0x49ee4c43, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:46:14,855  INFO LoggingHandler:101 - [id: 0x49ee4c43, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x545ea8cb, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57077]
+13:46:14,856  INFO LoggingHandler:101 - [id: 0x49ee4c43, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:46:14,911  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:46:15,084  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:46:15,381  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:46:22,810  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777&destNo=%2B6289655394054
+13:46:22,825  INFO LoggingHandler:101 - [id: 0x49ee4c43, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfe47c6cc, L:/127.0.0.1:8080 - R:/127.0.0.1:57078]
+13:46:22,826  INFO LoggingHandler:101 - [id: 0x49ee4c43, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:46:22,827  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:46:22,827  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:46:23,829  INFO HttpAtCommandServerHandler:329 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:46:23,831  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+ERROR
+
+13:46:24,834  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+13:46:27,481  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 18
+
+OK
+
+13:51:09,208  INFO LoggingHandler:101 - [id: 0x890da0c5] REGISTERED
+13:51:09,213  INFO LoggingHandler:101 - [id: 0x890da0c5] BIND: 0.0.0.0/0.0.0.0:8080
+13:51:09,216  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:51:12,684  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xcf840076, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57138]
+13:51:12,685  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:51:12,740  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:51:12,915  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:51:13,218  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:51:31,708  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777&destNo=%2B6289655394054
+13:51:31,725  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xec25e601, L:/127.0.0.1:8080 - R:/127.0.0.1:57139]
+13:51:31,725  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:51:31,727  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:51:31,727  INFO HttpAtCommandServerHandler:261 - 1501915891727
+13:51:31,727  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:51:32,728  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+13:51:32,728  INFO HttpAtCommandServerHandler:261 - 1501915892728
+13:51:32,728  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:51:32,732  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+ERROR
+
+13:51:33,731  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1003
+13:51:33,735  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+13:51:36,483  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 19
+
+OK
+
+13:53:33,979  INFO WebUtil:75 - http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777&destNo=%2B6289655394054
+13:53:33,995  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3053947c, L:/127.0.0.1:8080 - R:/127.0.0.1:57145]
+13:53:33,996  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:53:33,997  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:53:33,997  INFO HttpAtCommandServerHandler:261 - 1501916013997
+13:53:33,997  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:53:34,999  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1002
+13:53:34,999  INFO HttpAtCommandServerHandler:261 - 1501916014999
+13:53:34,999  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+13:53:35,002  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+ERROR
+
+13:53:36,000  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+13:53:36,004  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"Ini SMS yang dari maneh
+>  BMT 081394098892 SN5 7777
+13:53:38,646  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 20
+
+OK
+
+13:54:49,621  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",22
+
+13:54:49,621  INFO SerialWrite:64 - Got SMS
+13:54:49,621  INFO SerialWrite:66 - 22
+
+13:54:49,621  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=22
+
+13:54:51,624  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=22
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,13:53:12+28"
+BMT 081394098892 SN5 77
+
+OK
+
+13:54:51,624  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,13:53:12+28"
+BMT 081394098892 SN5 77
+
+OK
+
+13:54:51,624  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:54:51,624  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+13:54:51,624  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:53:12+28"
+BMT 081394098892 SN5 77
+
+OK
+
+13:54:51,625  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 77
+13:54:51,626  INFO WebUtil:52 - text=BMT+081394098892+SN5+77%0D%0D%0D&sender=%2B6289655394054
+13:54:51,626  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+77%0D%0D%0D&sender=%2B6289655394054
+13:54:51,627  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+77%0D%0D%0D&sender=%2B6289655394054
+13:54:51,637  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 77 | 
+13:54:51,637  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+77%0D%0D%0D&destNo=%2B6289655394054
+13:54:51,637  INFO WebUtil:75 - http://localhost:8080/reqat?text=BMT+081394098892+SN5+77%0D%0D%0D&sender=%2B6289655394054
+13:54:51,638  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x2c996d8d, L:/127.0.0.1:8080 - R:/127.0.0.1:57147]
+13:54:51,639  INFO LoggingHandler:101 - [id: 0x890da0c5, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:54:51,640  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:54:51,641  INFO SerialWrite:89 - Param SMS Gtw : sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+77%0D%0D%0D&destNo=%2B6289655394054
+13:54:51,641  INFO SerialWrite:90 - Response From SMSGTW : 
+13:57:33,070  INFO LoggingHandler:101 - [id: 0x44a2c44d] REGISTERED
+13:57:33,076  INFO LoggingHandler:101 - [id: 0x44a2c44d] BIND: 0.0.0.0/0.0.0.0:8080
+13:57:33,078  INFO LoggingHandler:101 - [id: 0x44a2c44d, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+13:57:37,111  INFO LoggingHandler:101 - [id: 0x44a2c44d, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x93df8365, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57219]
+13:57:37,112  INFO LoggingHandler:101 - [id: 0x44a2c44d, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:57:37,170  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:57:37,345  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+13:57:37,641  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+13:58:18,191  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",23
+
+13:58:18,191  INFO SerialWrite:64 - Got SMS
+13:58:18,191  INFO SerialWrite:66 - 23
+
+13:58:18,191  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=23
+
+13:58:20,195  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=23
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,13:56:41+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:58:20,195  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,13:56:41+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:58:20,195  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+13:58:20,195  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+13:58:20,196  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,13:56:41+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+13:58:20,197  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+13:58:20,199  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+13:58:20,199  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+13:58:20,199  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+13:58:20,209  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | 
+13:58:20,209  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D&destNo=%2B6289655394054
+13:58:20,209  INFO WebUtil:75 - http://localhost:8080/reqat?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+13:58:20,210  INFO LoggingHandler:101 - [id: 0x44a2c44d, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x59573ac3, L:/127.0.0.1:8080 - R:/127.0.0.1:57221]
+13:58:20,211  INFO LoggingHandler:101 - [id: 0x44a2c44d, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+13:58:20,212  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+13:58:20,213  INFO SerialWrite:89 - Param SMS Gtw + URL : http://localhost:8080/reqat?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D&destNo=%2B6289655394054
+13:58:20,213  INFO SerialWrite:90 - Response From SMSGTW : 
+14:03:19,287  INFO LoggingHandler:101 - [id: 0x001f0c29] REGISTERED
+14:03:19,292  INFO LoggingHandler:101 - [id: 0x001f0c29] BIND: 0.0.0.0/0.0.0.0:8080
+14:03:19,294  INFO LoggingHandler:101 - [id: 0x001f0c29, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+14:03:24,321  INFO LoggingHandler:101 - [id: 0x001f0c29, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x5df296de, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57270]
+14:03:24,322  INFO LoggingHandler:101 - [id: 0x001f0c29, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:03:24,383  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:03:24,555  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+14:03:24,850  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+14:03:43,587  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",24
+
+14:03:43,587  INFO SerialWrite:64 - Got SMS
+14:03:43,587  INFO SerialWrite:66 - 24
+
+14:03:43,587  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=24
+
+14:03:45,591  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=24
+
+ERROR
+
+14:03:45,591  INFO SerialWrite:72 - at+CMGR=24
+
+ERROR
+
+14:03:45,591  INFO SerialWrite:75 - arrayConcatMSG :at+CMGR=24
+
+ERROR
+
+14:04:19,397  INFO LoggingHandler:101 - [id: 0xa7b6b213] REGISTERED
+14:04:19,403  INFO LoggingHandler:101 - [id: 0xa7b6b213] BIND: 0.0.0.0/0.0.0.0:8080
+14:04:19,406  INFO LoggingHandler:101 - [id: 0xa7b6b213, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+14:04:21,826  INFO LoggingHandler:101 - [id: 0xa7b6b213, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe1116d4a, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57305]
+14:04:21,827  INFO LoggingHandler:101 - [id: 0xa7b6b213, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:04:21,881  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:04:22,224  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+14:04:22,519  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+14:04:53,634  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",25
+
+14:04:53,634  INFO SerialWrite:64 - Got SMS
+14:04:53,634  INFO SerialWrite:66 - 25
+
+14:04:53,634  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=25
+
+14:04:55,638  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=25
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,14:03:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:04:55,638  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,14:03:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:04:55,638  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:04:55,638  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+14:04:55,639  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:03:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:04:55,640  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+14:04:55,641  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:04:55,641  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:04:55,642  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:04:55,651  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | 
+14:04:55,651  INFO WebUtil:70 - sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D&destNo=%2B6289655394054
+14:04:55,652  INFO WebUtil:75 - http://localhost/smsTest/sendSMS.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:04:55,757  INFO LoggingHandler:101 - [id: 0xa7b6b213, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x41eee72f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57307]
+14:04:55,758  INFO LoggingHandler:101 - [id: 0xa7b6b213, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:04:55,759  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:04:55,759  INFO HttpAtCommandServerHandler:261 - 1501916695759
+14:04:55,760  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""$text
+14:04:56,761  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1002
+14:04:56,761  INFO HttpAtCommandServerHandler:261 - 1501916696761
+14:04:56,761  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="$sender"$text
+14:04:57,762  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:04:57,764  INFO SerialWrite:89 - Param SMS Gtw + URL : http://localhost/smsTest/sendSMS.php?sms=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D&destNo=%2B6289655394054
+14:04:57,764  INFO SerialWrite:90 - Response From SMSGTW : <br /><b>Notice</b>:  Undefined index: sms in <b>D:\Work\Xampp\htdocs\smsTest\sendSMS.php</b> on line <b>3</b><br /><br /><b>Notice</b>:  Undefined index: destNo in <b>D:\Work\Xampp\htdocs\smsTest\sendSMS.php</b> on line <b>4</b><br />{"response":" \"SM\",25\r\nat+CMGR=25\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:03:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":"$text","status":"0","description":"Success"}{"response":" \"SM\",25\r\nat+CMGR=25\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:03:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":"$sender","status":"0","description":"Success"}
+14:04:58,767  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""$text
+> 
+ERROR
+
+ERROR
+at+cmgs="$sender"$text
+> 
+14:05:00,242  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+14:13:21,037  INFO LoggingHandler:101 - [id: 0xaca1dc40] REGISTERED
+14:13:21,042  INFO LoggingHandler:101 - [id: 0xaca1dc40] BIND: 0.0.0.0/0.0.0.0:8080
+14:13:21,044  INFO LoggingHandler:101 - [id: 0xaca1dc40, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+14:13:23,189  INFO LoggingHandler:101 - [id: 0xaca1dc40, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x51be0c8f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57362]
+14:13:23,190  INFO LoggingHandler:101 - [id: 0xaca1dc40, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:13:23,249  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:13:23,423  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+14:13:23,716  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+14:13:51,870  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",26
+
+14:13:51,870  INFO SerialWrite:64 - Got SMS
+14:13:51,870  INFO SerialWrite:66 - 26
+
+14:13:51,870  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=26
+
+14:13:53,874  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=26
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,14:12:14+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:13:53,874  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,14:12:14+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:13:53,874  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:13:53,874  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+14:13:53,875  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:12:14+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:13:53,876  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+14:13:53,877  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:13:53,877  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:13:53,878  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:13:54,109  INFO SerialWrite:86 - Response From url<br /><b>Parse error</b>:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>5</b><br />
+14:15:40,012  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",27
+
+14:15:40,012  INFO SerialWrite:64 - Got SMS
+14:15:40,012  INFO SerialWrite:66 - 27
+
+14:15:40,012  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=27
+
+14:15:42,015  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=27
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,14:14:03+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:15:42,015  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,14:14:03+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:15:42,015  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:15:42,015  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+14:15:42,015  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:14:03+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:15:42,015  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+14:15:42,015  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:15:42,016  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:15:42,016  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:15:42,019  INFO LoggingHandler:101 - [id: 0xaca1dc40, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1d4604c0, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57365]
+14:15:42,020  INFO LoggingHandler:101 - [id: 0xaca1dc40, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:15:42,025  INFO SerialWrite:86 - Response From url<br /><b>Warning</b>:  file_get_contents(http://localhost:8080/reqat?sms=BMT 081394098892 SN5 7777&amp;destNo=+6289655394054): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>5</b><br />|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>
+14:38:55,734  INFO LoggingHandler:101 - [id: 0xdcd6df62] REGISTERED
+14:38:55,739  INFO LoggingHandler:101 - [id: 0xdcd6df62] BIND: 0.0.0.0/0.0.0.0:8080
+14:38:55,742  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+14:38:58,958  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x9e3b2abe, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57424]
+14:38:58,959  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:38:59,016  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:38:59,188  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+14:38:59,485  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+14:39:20,626  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",28
+
+14:39:20,626  INFO SerialWrite:64 - Got SMS
+14:39:20,626  INFO SerialWrite:66 - 28
+
+14:39:20,626  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=28
+
+14:39:22,629  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=28
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,14:37:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:39:22,629  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,14:37:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:39:22,629  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:39:22,629  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+14:39:22,631  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:37:43+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:39:22,631  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+14:39:22,632  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:39:22,633  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:39:22,633  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+14:39:22,643  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xcec4da6d, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57430]
+14:39:22,643  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:39:22,645  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:39:22,645  INFO HttpAtCommandServerHandler:261 - 1501918762645
+14:39:22,646  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+14:39:23,646  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:39:23,646  INFO HttpAtCommandServerHandler:261 - 1501918763646
+14:39:23,646  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=" 6289655394054"BMT 081394098892 SN5 7777
+14:39:24,647  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:39:24,650  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":"BMT 081394098892 SN5 7777\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":" 6289655394054","status":"0","description":"Success"}
+14:39:25,653  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777
+ERROR
+at+cmgs=" 6289655394054"BMT 081
+> 394098892 SN5 7777
+> 
+> 
+> 
+14:39:27,076  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 21
+
+OK
+
+14:42:48,451  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",29
+
+14:42:48,451  INFO SerialWrite:64 - Got SMS
+14:42:48,451  INFO SerialWrite:66 - 29
+
+14:42:48,451  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=29
+
+14:42:50,455  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=29
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,14:41:11+28"
+Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+
+OK
+
+14:42:50,455  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,14:41:11+28"
+Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+
+OK
+
+14:42:50,455  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:42:50,455  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+14:42:50,455  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:41:11+28"
+Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+
+OK
+
+14:42:50,455  INFO SerialWrite:81 - From : +6281394098892 SMS : Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+14:42:50,456  INFO WebUtil:52 - text=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D%0D%0D%0D&sender=%2B6281394098892
+14:42:50,456  INFO SerialWrite:83 - Param : text=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D%0D%0D%0D&sender=%2B6281394098892
+14:42:50,456  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=Ini+SMS+yang+dari+maneh+BMT+081394098892+SN5+7777%0D%0D%0D%0D%0D%0D&sender=%2B6281394098892
+14:42:50,459  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0b0c420b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57435]
+14:42:50,460  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:42:50,461  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:42:50,462  INFO HttpAtCommandServerHandler:261 - 1501918970462
+14:42:50,462  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+14:42:51,463  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:42:51,464  INFO HttpAtCommandServerHandler:261 - 1501918971464
+14:42:51,464  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=" 6281394098892"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+14:42:52,464  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1000
+14:42:52,466  INFO SerialWrite:86 - Response From url|Sender : +6281394098892 |SMS :  Ini SMS yang dari maneh BMT 081394098892 SN5 7777 | <br>{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\n","yourRequest":"Ini SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\n","yourRequest":" 6281394098892","status":"0","description":"Success"}
+14:42:53,488  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+> 
+ERROR
+
+ERROR
+at+cmgs=" 6281394098892"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+> 
+> 
+> 
+> 
+> 
+> 
+14:42:55,315  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 22
+
+OK
+
++CMTI: "SM",30
+
+14:42:55,315  INFO SerialWrite:64 - Got SMS
+14:42:55,315  INFO SerialWrite:66 - 30
+
+14:42:55,316  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=30
+
+14:42:57,319  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=30
+
++CMGR: "REC UNREAD","+6281394098892",,"17/08/05,14:41:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:42:57,319  INFO SerialWrite:72 -  "REC UNREAD","+6281394098892",,"17/08/05,14:41:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:42:57,319  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:42:57,319  INFO SerialWrite:75 - arrayConcatMSG :"+6281394098892"
+14:42:57,319  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:41:17+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+14:42:57,320  INFO SerialWrite:81 - From : +6281394098892 SMS : BMT 081394098892 SN5 7777
+14:42:57,320  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6281394098892
+14:42:57,320  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6281394098892
+14:42:57,320  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6281394098892
+14:42:57,322  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xdae1bcd8, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57436]
+14:42:57,322  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:42:57,324  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:42:57,324  INFO HttpAtCommandServerHandler:261 - 1501918977324
+14:42:57,324  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+14:42:58,324  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1000
+14:42:58,324  INFO HttpAtCommandServerHandler:261 - 1501918978324
+14:42:58,325  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=" 6281394098892"BMT 081394098892 SN5 7777
+14:42:59,325  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:42:59,328  INFO SerialWrite:86 - Response From url|Sender : +6281394098892 |SMS :  BMT 081394098892 SN5 7777 | <br>{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":"BMT 081394098892 SN5 7777\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":" 6281394098892","status":"0","description":"Success"}
+14:43:00,329  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777
+ERROR
+at+cmgs=" 6281394098892"BMT 081
+> 394098892 SN5 7777
+> 
+> 
+> 
+14:43:02,168  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 23
+
+OK
+
+14:44:07,051  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",31
+
+14:44:07,051  INFO SerialWrite:64 - Got SMS
+14:44:07,051  INFO SerialWrite:66 - 31
+
+14:44:07,051  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=31
+
+14:44:09,073  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=31
+
++CMGR: "REC UNREAD","TELKOMSE",,"17/08/05,14:42:29+28"
+Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+
+OK
+
+14:44:09,073  INFO SerialWrite:72 -  "REC UNREAD","TELKOMSE",,"17/08/05,14:42:29+28"
+Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+
+OK
+
+14:44:09,073  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:44:09,073  INFO SerialWrite:75 - arrayConcatMSG :"TELKOMSE"
+14:44:09,073  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:42:29+28"
+Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+
+OK
+
+14:44:09,073  INFO SerialWrite:81 - From : TELKOMSE SMS : Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+14:44:09,073  INFO WebUtil:52 - text=Selamat%2C+Anda+mendapatkan+kuota+All+Net+sebesar+30SMS.+Cek+kuota+di+*888%23+atau+akses+My+Telkomsel+App.%0D%0D%0D&sender=TELKOMSE
+14:44:09,074  INFO SerialWrite:83 - Param : text=Selamat%2C+Anda+mendapatkan+kuota+All+Net+sebesar+30SMS.+Cek+kuota+di+*888%23+atau+akses+My+Telkomsel+App.%0D%0D%0D&sender=TELKOMSE
+14:44:09,074  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=Selamat%2C+Anda+mendapatkan+kuota+All+Net+sebesar+30SMS.+Cek+kuota+di+*888%23+atau+akses+My+Telkomsel+App.%0D%0D%0D&sender=TELKOMSE
+14:44:09,077  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4691b55b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57439]
+14:44:09,077  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:44:09,079  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:44:09,079  INFO HttpAtCommandServerHandler:261 - 1501919049079
+14:44:09,079  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+14:44:10,081  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1002
+14:44:10,081  INFO HttpAtCommandServerHandler:261 - 1501919050081
+14:44:10,081  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="TELKOMSE"Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+14:44:11,082  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:44:11,085  INFO SerialWrite:86 - Response From url|Sender : TELKOMSE |SMS :  Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App. | <br>{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 23\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",31\r\nat+CMGR=31\r\n\r\r\n+CMGR: \"REC UNREAD\",\"TELKOMSE\",,\"17\/08\/05,14:42:29+28\"\r\nSelamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\n\r\nOK\r\n","yourRequest":"Selamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 23\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",31\r\nat+CMGR=31\r\n\r\r\n+CMGR: \"REC UNREAD\",\"TELKOMSE\",,\"17\/08\/05,14:42:29+28\"\r\nSelamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\n\r\nOK\r\n","yourRequest":"TELKOMSE","status":"0","description":"Success"}
+14:44:12,087  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Selam
+> 
+ERROR
+at, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+ERROR
+at+cmgs="TELKOMSE"Selamat, Anda
+>  mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.
+> 
+> 
+> 
+14:44:14,573  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+14:48:35,429  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",32
+
+14:48:35,429  INFO SerialWrite:64 - Got SMS
+14:48:35,429  INFO SerialWrite:66 - 32
+
+14:48:35,429  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=32
+
+14:48:37,433  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=32
+
++CMGR: "REC UNREAD","+6285311798491",,"17/08/05,14:46:58+28"
+BMT 081394098892 SN5 7777  sms.web.id
+
+OK
+
+14:48:37,433  INFO SerialWrite:72 -  "REC UNREAD","+6285311798491",,"17/08/05,14:46:58+28"
+BMT 081394098892 SN5 7777  sms.web.id
+
+OK
+
+14:48:37,433  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+14:48:37,433  INFO SerialWrite:75 - arrayConcatMSG :"+6285311798491"
+14:48:37,433  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,14:46:58+28"
+BMT 081394098892 SN5 7777  sms.web.id
+
+OK
+
+14:48:37,433  INFO SerialWrite:81 - From : +6285311798491 SMS : BMT 081394098892 SN5 7777  sms.web.id
+14:48:37,434  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777++sms.web.id%0D%0D%0D&sender=%2B6285311798491
+14:48:37,434  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777++sms.web.id%0D%0D%0D&sender=%2B6285311798491
+14:48:37,434  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777++sms.web.id%0D%0D%0D&sender=%2B6285311798491
+14:48:37,437  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfe776aa6, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57442]
+14:48:37,438  INFO LoggingHandler:101 - [id: 0xdcd6df62, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+14:48:37,446  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+14:48:37,447  INFO HttpAtCommandServerHandler:261 - 1501919317447
+14:48:37,447  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777  sms.web.id
+14:48:38,449  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1002
+14:48:38,449  INFO HttpAtCommandServerHandler:261 - 1501919318449
+14:48:38,449  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=" 6285311798491"BMT 081394098892 SN5 7777  sms.web.id
+14:48:39,450  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+14:48:39,453  INFO SerialWrite:86 - Response From url|Sender : +6285311798491 |SMS :  BMT 081394098892 SN5 7777  sms.web.id | <br>{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 23\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",31\r\nat+CMGR=31\r\n\r\r\n+CMGR: \"REC UNREAD\",\"TELKOMSE\",,\"17\/08\/05,14:42:29+28\"\r\nSelamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\n\r\nOK\r\nat+cmgs=\"\"\rSelam\r\n> \r\nERROR\r\nat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\"TELKOMSE\"\rSelamat, Anda\r\n>  mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\nERROR\r\n\r\n+CMTI: \"SM\",32\r\nat+CMGR=32\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6285311798491\",,\"17\/08\/05,14:46:58+28\"\r\nBMT 081394098892 SN5 7777  sms.web.id\r\n\r\nOK\r\n","yourRequest":"BMT 081394098892 SN5 7777  sms.web.id\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",28\r\nat+CMGR=28\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,14:37:43+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6289655394054\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 21\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",29\r\nat+CMGR=29\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:11+28\"\r\nIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\n\r\nOK\r\n\r\n\r\nOK\r\nat+cmgs=\"\"\rIni SMS yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\nERROR\r\n\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rIni SMS\r\n>  yang dari maneh BMT 081394098892 SN5 7777\r\r\r\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n> \r\n> \r\n> \r\n+CMGS: 22\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",30\r\nat+CMGR=30\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6281394098892\",,\"17\/08\/05,14:41:17+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\nat+cmgs=\"\"\rBMT 0\r\n> \r\nERROR\r\n81394098892 SN5 7777\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\" 6281394098892\"\rBMT 081\r\n> 394098892 SN5 7777\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\n+CMGS: 23\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",31\r\nat+CMGR=31\r\n\r\r\n+CMGR: \"REC UNREAD\",\"TELKOMSE\",,\"17\/08\/05,14:42:29+28\"\r\nSelamat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\n\r\nOK\r\nat+cmgs=\"\"\rSelam\r\n> \r\nERROR\r\nat, Anda mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\r\r\u001A\r\r\nERROR\r\nat+cmgs=\"TELKOMSE\"\rSelamat, Anda\r\n>  mendapatkan kuota All Net sebesar 30SMS. Cek kuota di *888# atau akses My Telkomsel App.\r\r\r\u001A\r\r\n> \r\n> \r\n> \r\nERROR\r\n\r\n+CMTI: \"SM\",32\r\nat+CMGR=32\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6285311798491\",,\"17\/08\/05,14:46:58+28\"\r\nBMT 081394098892 SN5 7777  sms.web.id\r\n\r\nOK\r\n","yourRequest":" 6285311798491","status":"0","description":"Success"}
+14:48:40,455  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777  sms.web.id
+ERROR
+at+cmgs=" 6285311798491"BMT 081
+> 394098892 SN5 7777  sms.web.id
+> 
+> 
+> 
+14:48:42,146  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 24
+
+OK
+
+15:25:46,180  INFO LoggingHandler:101 - [id: 0x9b8c45ff] REGISTERED
+15:25:46,185  INFO LoggingHandler:101 - [id: 0x9b8c45ff] BIND: 0.0.0.0/0.0.0.0:8080
+15:25:46,188  INFO LoggingHandler:101 - [id: 0x9b8c45ff, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+15:26:37,981  INFO LoggingHandler:101 - [id: 0x67aaba4a] REGISTERED
+15:26:37,986  INFO LoggingHandler:101 - [id: 0x67aaba4a] BIND: 0.0.0.0/0.0.0.0:8080
+15:26:37,989  INFO LoggingHandler:101 - [id: 0x67aaba4a, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+15:26:40,776  INFO LoggingHandler:101 - [id: 0x67aaba4a, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x673617a4, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57553]
+15:26:40,777  INFO LoggingHandler:101 - [id: 0x67aaba4a, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:26:40,832  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:26:41,008  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+15:26:41,303  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+15:27:07,567  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",33
+
+15:27:07,567  INFO SerialWrite:64 - Got SMS
+15:27:07,567  INFO SerialWrite:66 - 33
+
+15:27:07,567  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+CMGR=33
+
+15:27:08,574  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=33
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,15:25:31+28"
+O
+
+OK
+
+15:27:08,574  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,15:25:31+28"
+O
+
+OK
+
+15:27:08,574  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+15:27:08,574  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+15:27:08,575  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,15:25:31+28"
+O
+
+OK
+
+15:27:08,576  INFO SerialWrite:81 - From : +6289655394054 SMS : O
+15:27:08,577  INFO WebUtil:52 - text=O%0D%0D%0D&sender=%2B6289655394054
+15:27:08,577  INFO SerialWrite:83 - Param : text=O%0D%0D%0D&sender=%2B6289655394054
+15:27:08,578  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=O%0D%0D%0D&sender=%2B6289655394054
+15:27:08,586  INFO LoggingHandler:101 - [id: 0x67aaba4a, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb0717889, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57555]
+15:27:08,587  INFO LoggingHandler:101 - [id: 0x67aaba4a, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:27:08,590  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:27:08,590  INFO HttpAtCommandServerHandler:261 - 1501921628590
+15:27:08,590  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""O
+15:27:08,591  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:27:08,591  INFO HttpAtCommandServerHandler:261 - 1501921628591
+15:27:08,591  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=" 6289655394054"O
+15:27:08,592  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:27:08,596  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  O | <br>{"response":" \"SM\",33\r\nat+CMGR=33\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,15:25:31+28\"\r\nO\r\n\r\nOK\r\n","yourRequest":"O\r\r\r","status":"0","description":"Success"}{"response":" \"SM\",33\r\nat+CMGR=33\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,15:25:31+28\"\r\nO\r\n\r\nOK\r\n","yourRequest":" 6289655394054","status":"0","description":"Success"}
+15:27:09,618  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""O
+> 
+ERROR
+
+ERROR
+at+cmgs=" 6289655394054"O
+> 
+> 
+> 
+> 
+15:27:11,727  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 25
+
+OK
+
+15:28:21,041  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:21,041  INFO HttpAtCommandServerHandler:261 - 1501921701041
+15:28:21,041  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:21,042  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:21,042  INFO HttpAtCommandServerHandler:261 - 1501921701042
+15:28:21,043  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:21,044  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:22,045  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+> 
+> 
+> 
+> 
+15:28:24,819  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 26
+
+OK
+
+15:28:26,494  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:26,494  INFO HttpAtCommandServerHandler:261 - 1501921706494
+15:28:26,494  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:26,495  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:26,496  INFO HttpAtCommandServerHandler:261 - 1501921706496
+15:28:26,496  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:26,497  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:27,220  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:27,220  INFO HttpAtCommandServerHandler:261 - 1501921707220
+15:28:27,220  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:27,221  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:27,221  INFO HttpAtCommandServerHandler:261 - 1501921707221
+15:28:27,222  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:27,223  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:27,450  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:27,450  INFO HttpAtCommandServerHandler:261 - 1501921707450
+15:28:27,450  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:27,451  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:27,451  INFO HttpAtCommandServerHandler:261 - 1501921707451
+15:28:27,452  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:27,453  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:27,498  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+> 
+> 
+> 
+> at+cmgs=""Ini SMS yan
+ERROR
+892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"I
+ERROR
+ni SMS yanat+cmgs=""Ini SMS yan
+ERROR
+OK
+at+cmgs="+6289655394054"I
+ERROR
+ni SMS yan
+15:28:28,002  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:28,002  INFO HttpAtCommandServerHandler:261 - 1501921708002
+15:28:28,002  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:28,004  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:28,004  INFO HttpAtCommandServerHandler:261 - 1501921708004
+15:28:28,004  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:28,006  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:29,008  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini SMS yan
+ERROR
+892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"Ini SMS yan man
+ERROR
+
+15:28:30,271  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 27
+
+OK
+
+15:28:37,300  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:37,300  INFO HttpAtCommandServerHandler:261 - 1501921717300
+15:28:37,300  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:37,301  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:37,302  INFO HttpAtCommandServerHandler:261 - 1501921717301
+15:28:37,302  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:37,303  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:38,304  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+> 
+> 
+> 
+> 
+15:28:41,315  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 28
+
+OK
+
+15:28:45,290  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:45,290  INFO HttpAtCommandServerHandler:261 - 1501921725290
+15:28:45,290  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:45,292  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:45,292  INFO HttpAtCommandServerHandler:261 - 1501921725292
+15:28:45,292  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:45,294  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 2
+15:28:46,138  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:28:46,138  INFO HttpAtCommandServerHandler:261 - 1501921726138
+15:28:46,138  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:46,139  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1
+15:28:46,139  INFO HttpAtCommandServerHandler:261 - 1501921726139
+15:28:46,140  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:28:46,142  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 3
+15:28:46,296  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+at+cmgs="+6289655394054"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+
+> 
+> 
+> 
+> at+cmgs=""Ini SMS yan
+ERROR
+OK
+at+cmgs="+6289655394054"I
+ERROR
+ni SMS yan
+
+OK
+
+15:28:48,902  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 29
+
+OK
+
+15:29:08,734  INFO LoggingHandler:101 - [id: 0xc43d1a13] REGISTERED
+15:29:08,739  INFO LoggingHandler:101 - [id: 0xc43d1a13] BIND: 0.0.0.0/0.0.0.0:8080
+15:29:08,741  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+15:29:12,052  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x191b5963, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57590]
+15:29:12,053  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:12,109  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:12,109  INFO HttpAtCommandServerHandler:261 - 1501921752109
+15:29:12,109  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:29:12,151  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x58cd2c3a, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57591]
+15:29:12,152  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:12,154  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:12,154  INFO HttpAtCommandServerHandler:261 - 1501921752154
+15:29:12,154  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:29:16,024  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x88d860ff, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57592]
+15:29:16,025  INFO LoggingHandler:101 - [id: 0xc43d1a13, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:31,168  INFO LoggingHandler:101 - [id: 0x26539d86] REGISTERED
+15:29:31,173  INFO LoggingHandler:101 - [id: 0x26539d86] BIND: 0.0.0.0/0.0.0.0:8080
+15:29:31,175  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+15:29:32,641  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4ea2bd71, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57627]
+15:29:32,642  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:37,649  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:37,650  INFO HttpAtCommandServerHandler:261 - 1501921777650
+15:29:37,650  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+15:29:37,653  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc2505667, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57628]
+15:29:37,653  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:37,655  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:37,656  INFO HttpAtCommandServerHandler:261 - 1501921777656
+15:29:37,656  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+15:29:37,698  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x9c610776, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57629]
+15:29:37,698  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:37,701  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:37,703  INFO HttpAtCommandServerHandler:261 - 1501921777703
+15:29:37,703  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+15:29:40,886  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc3665247, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57630]
+15:29:40,888  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:29:41,683  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:41,860  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+15:29:42,153  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+15:29:45,232  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:29:45,233  INFO HttpAtCommandServerHandler:261 - 1501921785233
+15:29:45,233  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+15:29:46,233  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1000
+15:29:46,233  INFO HttpAtCommandServerHandler:261 - 1501921786233
+15:29:46,233  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+15:29:46,238  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777
+ERROR
+at+cmgs="+62896553940
+15:29:47,234  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+15:29:47,240  INFO SerialWrite:60 - Got Something From Modem : 54"BMT 081
+> 394098892 SN5 7777
+15:29:49,558  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 30
+
+OK
+
+15:49:07,227  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x5be4523c, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57652]
+15:49:07,228  INFO LoggingHandler:101 - [id: 0x26539d86, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:49:07,230  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:49:07,231  INFO HttpAtCommandServerHandler:261 - 1501922947231
+15:49:07,231  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""BMT 081394098892 SN5 7777
+15:49:08,232  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+15:49:08,233  INFO HttpAtCommandServerHandler:261 - 1501922948233
+15:49:08,233  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+15:49:08,234  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""BMT 0
+> 
+ERROR
+81394098892 SN5 7777
+ERROR
+
+15:49:09,234  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+15:49:09,238  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+15:49:11,681  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 31
+
+OK
+
+15:50:05,603  INFO LoggingHandler:101 - [id: 0xdb5d1e6c] REGISTERED
+15:50:05,608  INFO LoggingHandler:101 - [id: 0xdb5d1e6c] BIND: 0.0.0.0/0.0.0.0:8080
+15:50:05,610  INFO LoggingHandler:101 - [id: 0xdb5d1e6c, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+15:50:11,304  INFO LoggingHandler:101 - [id: 0xdb5d1e6c, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x88986357, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57687]
+15:50:11,305  INFO LoggingHandler:101 - [id: 0xdb5d1e6c, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+15:50:12,295  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:50:12,473  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+15:50:12,768  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+15:50:16,443  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+15:50:16,443  INFO HttpAtCommandServerHandler:261 - 1501923016443
+15:50:16,444  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs=""Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:50:17,446  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1003
+15:50:17,446  INFO HttpAtCommandServerHandler:261 - 1501923017446
+15:50:17,446  INFO HttpAtCommandServerHandler:334 - Command Inserted : at+cmgs="+6281394098892"Ini SMS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+15:50:17,450  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=""Ini S
+> 
+ERROR
+MS yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+ERROR
+at+cmgs="+6
+15:50:18,447  INFO HttpAtCommandServerHandler:285 - Total Time Execution : 1001
+15:50:18,452  INFO SerialWrite:60 - Got Something From Modem : 281394098892"Ini SMS
+>  yang dari maneh BMT 081394098892 SN5 7777
+
+OK
+
+> 
+> 
+> 
+15:50:21,194  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 32
+
+OK
+
+17:49:50,691  INFO LoggingHandler:101 - [id: 0x1c55de5f] REGISTERED
+17:49:50,696  INFO LoggingHandler:101 - [id: 0x1c55de5f] BIND: 0.0.0.0/0.0.0.0:8080
+17:49:50,699  INFO LoggingHandler:101 - [id: 0x1c55de5f, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+17:50:59,478  INFO LoggingHandler:101 - [id: 0x1c55de5f, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x596b5683, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57862]
+17:50:59,480  INFO LoggingHandler:101 - [id: 0x1c55de5f, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+17:51:01,714  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+17:51:02,033  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+17:51:02,328  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+17:51:15,341  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+17:51:15,341  INFO HttpAtCommandServerHandler:261 - 1501930275341
+17:51:15,342  INFO HttpAtCommandServerHandler:261 - 1501930275342
+17:51:15,342  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+17:51:16,343  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+17:51:16,346  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+17:51:18,890  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 33
+
+OK
+
+17:51:56,979  INFO LoggingHandler:101 - [id: 0xde061186] REGISTERED
+17:51:56,984  INFO LoggingHandler:101 - [id: 0xde061186] BIND: 0.0.0.0/0.0.0.0:8080
+17:51:56,987  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+17:52:15,309  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa12adbd9, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57897]
+17:52:15,310  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+17:52:15,708  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+17:52:15,883  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+17:52:16,177  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+17:52:18,036  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+17:52:18,036  INFO HttpAtCommandServerHandler:261 - 1501930338036
+17:52:18,036  INFO HttpAtCommandServerHandler:261 - 1501930338036
+17:52:18,036  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+17:52:19,037  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+17:52:19,043  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+17:52:21,576  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 34
+
+OK
+
+17:53:12,517  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",34
+
+17:53:12,518  INFO SerialWrite:64 - Got SMS
+17:53:12,518  INFO SerialWrite:66 - 34
+
+17:53:12,518  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+CMGR=34
+
+17:53:14,541  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=34
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,17:51:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:53:14,541  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,17:51:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:53:14,541  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+17:53:14,541  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+17:53:14,541  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,17:51:35+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:53:14,542  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+17:53:14,550  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:53:14,550  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:53:14,550  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:53:14,570  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe456f2a6, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57919]
+17:53:14,570  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+17:53:14,572  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+17:53:14,572  INFO HttpAtCommandServerHandler:261 - 1501930394572
+17:53:14,572  INFO HttpAtCommandServerHandler:261 - 1501930394572
+17:53:14,572  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs=" 6289655394054"INI dari PHPTESTBMT 081394098892 SN5 7777
+17:53:15,574  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+17:53:15,578  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>{"response":" 34\r\n\r\nOK\r\n\r\n+CMTI: \"SM\",34\r\nat+CMGR=34\r\n\r\r\n+CMGR: \"REC UNREAD\",\"+6289655394054\",,\"17\/08\/05,17:51:35+28\"\r\nBMT 081394098892 SN5 7777\r\n\r\nOK\r\n","yourRequest":" 6289655394054","status":"0","description":"Success"}
+17:53:16,580  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=" 6289655394054"INI dar
+> i PHPTESTBMT 081394098892 SN5 7777
+> 
+> 
+> 
+17:53:18,230  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 35
+
+OK
+
+17:55:16,382  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",35
+
+17:55:16,382  INFO SerialWrite:64 - Got SMS
+17:55:16,382  INFO SerialWrite:66 - 35
+
+17:55:16,382  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+CMGR=35
+
+17:55:18,386  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=35
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,17:53:39+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:55:18,386  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,17:53:39+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:55:18,386  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+17:55:18,386  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+17:55:18,386  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,17:53:39+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:55:18,386  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+17:55:18,387  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:55:18,387  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:55:18,387  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:55:18,405  INFO SerialWrite:86 - Response From url<br /><b>Parse error</b>:  syntax error, unexpected ':' in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>6</b><br />
+17:56:14,652  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",36
+
+17:56:14,652  INFO SerialWrite:64 - Got SMS
+17:56:14,652  INFO SerialWrite:66 - 36
+
+17:56:14,652  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+CMGR=36
+
+17:56:16,655  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=36
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,17:54:37+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:56:16,655  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,17:54:37+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:56:16,655  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+17:56:16,655  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+17:56:16,655  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,17:54:37+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:56:16,655  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+17:56:16,655  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:56:16,655  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:56:16,656  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:56:16,659  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3eb2126c, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57923]
+17:56:16,659  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+17:56:16,664  INFO SerialWrite:86 - Response From url<br /><b>Warning</b>:  file_get_contents(http://localhost:8080/reqat?sms=INI+dari+PHPTESTBMT+081394098892+SN5+7777%0D%0D%0D&amp;destNo= 6289655394054): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>5</b><br />|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>
+17:59:17,187  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",37
+
+17:59:17,187  INFO SerialWrite:64 - Got SMS
+17:59:17,187  INFO SerialWrite:66 - 37
+
+17:59:17,187  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+CMGR=37
+
+17:59:19,192  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=37
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,17:57:40+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:59:19,192  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,17:57:40+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:59:19,192  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+17:59:19,192  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+17:59:19,192  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,17:57:40+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+17:59:19,192  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+17:59:19,192  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:59:19,192  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:59:19,193  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+17:59:19,196  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x21498011, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57950]
+17:59:19,196  INFO LoggingHandler:101 - [id: 0xde061186, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+17:59:19,200  INFO SerialWrite:86 - Response From url<br /><b>Warning</b>:  file_get_contents(http://localhost:8080/reqat?sms=INI+dari+PHPTESTBMT+081394098892+SN5+7777%0D%0D%0D&amp;destNo=  6289655394054): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request in <b>D:\Work\Xampp\htdocs\smsTest\test.php</b> on line <b>5</b><br />|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>
+18:00:21,632  INFO LoggingHandler:101 - [id: 0xcaaaa9ec] REGISTERED
+18:00:21,638  INFO LoggingHandler:101 - [id: 0xcaaaa9ec] BIND: 0.0.0.0/0.0.0.0:8080
+18:00:21,640  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:00:34,161  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x8f842ad8, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57993]
+18:00:34,162  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:00:34,550  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:00:34,728  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:00:35,023  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:02:02,398  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x95770895, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57996]
+18:02:02,399  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:02:02,402  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:02:02,402  INFO HttpAtCommandServerHandler:261 - 1501930922402
+18:02:02,403  INFO HttpAtCommandServerHandler:261 - 1501930922403
+18:02:05,429  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3839d4b5, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57997]
+18:02:05,430  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:02:05,432  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:02:05,435  INFO HttpAtCommandServerHandler:261 - 1501930925435
+18:02:05,435  INFO HttpAtCommandServerHandler:261 - 1501930925435
+18:02:14,481  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x93b05614, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:57999]
+18:02:14,482  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:02:37,765  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x31b6fbce, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58001]
+18:02:37,766  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:03:24,716  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x560f2556, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58003]
+18:03:24,716  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:04:14,980  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc231a33b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58007]
+18:04:14,981  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:04:17,836  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xa0e821d3, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58008]
+18:04:17,836  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:04:18,100  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x026c6d7f, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58009]
+18:04:18,101  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:04:18,280  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfb43f054, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58010]
+18:04:18,281  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:04:36,656  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:04:36,656  INFO HttpAtCommandServerHandler:261 - 1501931076656
+18:04:36,656  INFO HttpAtCommandServerHandler:261 - 1501931076656
+18:04:36,656  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs=" 6289655394054"INI dari PHPTESTululululululu
+18:04:37,657  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:04:37,661  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=" 6289655394054"INI dar
+> i PHPTESTululululululu
+18:04:39,992  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 36
+
+OK
+
+18:05:15,672  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:17,499  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:18,468  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:27,290  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:27,739  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:27,950  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:42,804  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:42,804  INFO HttpAtCommandServerHandler:261 - 1501931142804
+18:05:52,393  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:05:52,393  INFO HttpAtCommandServerHandler:261 - 1501931152393
+18:05:52,393  INFO HttpAtCommandServerHandler:261 - 1501931152393
+18:05:52,394  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+18:05:53,395  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:05:53,398  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+18:05:55,951  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 37
+
+OK
+
+18:06:18,560  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x73feffd5, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58014]
+18:06:18,561  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:06:19,008  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0bd934e3, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58015]
+18:06:19,009  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:06:19,210  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xd063f95c, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58016]
+18:06:19,210  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:06:19,390  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x27a04eb6, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58017]
+18:06:19,391  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:06:19,587  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3b36b4ef, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58018]
+18:06:19,588  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:07:52,291  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x5c6e9ae0, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58024]
+18:07:52,292  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:08:06,545  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:08:06,545  INFO HttpAtCommandServerHandler:261 - 1501931286545
+18:08:06,545  INFO HttpAtCommandServerHandler:261 - 1501931286545
+18:08:06,545  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs=" 6289655394054"INI dari PHPTESTululululululu
+18:08:07,546  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:08:07,549  INFO SerialWrite:60 - Got Something From Modem : at+cmgs=" 6289655394054"INI dar
+> i PHPTESTululululululu
+18:08:10,115  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 38
+
+OK
+
+18:08:53,805  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1a566ae0, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58029]
+18:08:53,805  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:08:53,807  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:08:53,807  INFO HttpAtCommandServerHandler:261 - 1501931333807
+18:08:53,808  INFO HttpAtCommandServerHandler:261 - 1501931333808
+18:08:53,808  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="
++6289655394054"INI dari PHPTESTululululululu
+18:08:54,809  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:08:54,813  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="
++62896
+> 
+ERROR
+55394054"INI dar
+ERROR
+
+18:09:29,571  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xb3cbafcc, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58032]
+18:09:29,572  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:09:29,573  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:09:29,574  INFO HttpAtCommandServerHandler:261 - 1501931369574
+18:09:29,574  INFO HttpAtCommandServerHandler:261 - 1501931369574
+18:09:29,574  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="
++6289655394054"INI dari PHPTESTululululululu
+18:09:30,575  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:09:30,579  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="
++62896
+> 
+ERROR
+55394054"INI dar
+ERROR
+
+18:09:59,228  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x173c7006, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58036]
+18:09:59,229  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:09:59,231  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:09:59,231  INFO HttpAtCommandServerHandler:261 - 1501931399231
+18:09:59,231  INFO HttpAtCommandServerHandler:261 - 1501931399231
+18:09:59,231  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="_ 6289655394054"INI dari PHPTESTululululululu
+18:10:00,232  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:10:00,236  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="_ 6289655394054"INI da
+> ri PHPTESTululululululu
+18:10:02,647  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+18:10:49,195  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3a25a6d3, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58038]
+18:10:49,195  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:10:49,197  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:10:49,198  INFO HttpAtCommandServerHandler:261 - 1501931449198
+18:10:49,198  INFO HttpAtCommandServerHandler:261 - 1501931449198
+18:10:49,199  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="_ 6289655394054"INI dari PHPTESTululululululu
+18:10:50,200  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:10:50,204  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="_ 6289655394054"INI da
+> ri PHPTESTululululululu
+18:10:52,802  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+18:11:21,052  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x54ce51ad, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58040]
+18:11:21,052  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:11:37,596  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x536efe66, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58042]
+18:11:37,596  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:11:41,295  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x50fefa6d, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58043]
+18:11:41,296  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:11:41,297  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:11:41,297  INFO HttpAtCommandServerHandler:261 - 1501931501297
+18:11:41,297  INFO HttpAtCommandServerHandler:261 - 1501931501297
+18:11:41,298  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="6289655394054"INI dari PHPTESTululululululu
+18:11:42,300  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1003
+18:11:42,303  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="6289655394054"INI dari PHPTESTulululul
+> ululu
+18:11:44,821  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+18:11:55,633  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x8ee236a6, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58045]
+18:11:55,634  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:11:55,635  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:11:55,635  INFO HttpAtCommandServerHandler:261 - 1501931515635
+18:11:55,635  INFO HttpAtCommandServerHandler:261 - 1501931515635
+18:11:55,636  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="6289655394054"INI dari PHPTESTululululululu
+18:11:56,637  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:11:56,640  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="6289655394054"INI dari
+>  PHPTESTululululululu
+18:11:59,125  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+18:12:14,369  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:12:14,370  INFO HttpAtCommandServerHandler:261 - 1501931534370
+18:12:14,370  INFO HttpAtCommandServerHandler:261 - 1501931534370
+18:12:14,370  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"BMT 081394098892 SN5 7777
+18:12:15,371  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:12:15,376  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"BMT 081
+> 394098892 SN5 7777
+18:12:17,793  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 39
+
+OK
+
+18:13:05,252  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x3a12f1f5, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58047]
+18:13:05,252  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:13:05,261  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:13:05,261  INFO HttpAtCommandServerHandler:261 - 1501931585261
+18:13:05,261  INFO HttpAtCommandServerHandler:261 - 1501931585261
+18:13:05,261  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="6289655394054"INI dari PHPTESTululululululu
+18:13:06,263  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:13:06,267  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="6289655394054"INI dari
+>  PHPTESTululululululu
+18:13:08,599  INFO SerialWrite:60 - Got Something From Modem : 
+ERROR
+
+18:13:15,468  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x0466d363, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58051]
+18:13:15,469  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:13:44,255  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe538ba4d, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58053]
+18:13:44,256  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:13:44,258  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:13:44,258  INFO HttpAtCommandServerHandler:261 - 1501931624258
+18:13:44,258  INFO HttpAtCommandServerHandler:261 - 1501931624258
+18:13:44,258  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:13:45,260  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:13:45,265  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTululululululu
+18:13:47,637  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 40
+
+OK
+
+18:19:43,516  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1fff39d4, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58059]
+18:19:43,517  INFO LoggingHandler:101 - [id: 0xcaaaa9ec, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:19:43,519  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:19:43,519  INFO HttpAtCommandServerHandler:261 - 1501931983519
+18:19:43,519  INFO HttpAtCommandServerHandler:261 - 1501931983519
+18:19:43,519  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:19:44,521  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:19:44,525  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTululululululu
+18:19:47,067  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 41
+
+OK
+
+18:21:02,510  INFO LoggingHandler:101 - [id: 0x49c66d58] REGISTERED
+18:21:02,515  INFO LoggingHandler:101 - [id: 0x49c66d58] BIND: 0.0.0.0/0.0.0.0:8080
+18:21:02,517  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:21:06,784  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xe7a7ebab, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58101]
+18:21:06,785  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:21:06,841  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:21:06,841  INFO HttpAtCommandServerHandler:261 - 1501932066841
+18:21:06,841  INFO HttpAtCommandServerHandler:261 - 1501932066841
+18:21:06,841  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:21:18,896  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x1df6565c, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58102]
+18:21:18,897  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:21:22,663  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:21:22,840  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:21:23,135  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:21:24,415  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4c8cdf02, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58104]
+18:21:24,415  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:21:24,418  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:21:24,418  INFO HttpAtCommandServerHandler:261 - 1501932084418
+18:21:24,418  INFO HttpAtCommandServerHandler:261 - 1501932084418
+18:21:24,418  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:21:25,419  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1001
+18:21:25,422  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTululululululu
+18:21:28,158  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 42
+
+OK
+
+18:21:37,873  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x33ef5014, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58106]
+18:21:37,873  INFO LoggingHandler:101 - [id: 0x49c66d58, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:21:37,875  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:21:37,875  INFO HttpAtCommandServerHandler:261 - 1501932097875
+18:21:37,875  INFO HttpAtCommandServerHandler:261 - 1501932097875
+18:21:37,876  INFO HttpAtCommandServerHandler:336 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:21:38,877  INFO HttpAtCommandServerHandler:286 - Total Time Execution : 1002
+18:21:38,881  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTululululululu
+18:21:41,229  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 43
+
+OK
+
+18:23:08,009  INFO LoggingHandler:101 - [id: 0x57f86424] REGISTERED
+18:23:08,014  INFO LoggingHandler:101 - [id: 0x57f86424] BIND: 0.0.0.0/0.0.0.0:8080
+18:23:08,016  INFO LoggingHandler:101 - [id: 0x57f86424, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:23:13,773  INFO LoggingHandler:101 - [id: 0x57f86424, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x6a838074, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58144]
+18:23:13,774  INFO LoggingHandler:101 - [id: 0x57f86424, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:23:13,831  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:23:14,007  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:23:14,301  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:23:17,999  INFO LoggingHandler:101 - [id: 0x57f86424, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc76ea398, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58146]
+18:23:18,000  INFO LoggingHandler:101 - [id: 0x57f86424, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:23:18,001  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:23:18,001  INFO HttpAtCommandServerHandler:341 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTululululululu
+18:23:19,007  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dari PHPTESTulululu
+> lululu
+18:23:20,202  INFO HttpAtCommandServerHandler:291 - Total Time Execution : 2201
+18:23:21,764  INFO SerialWrite:60 - Got Something From Modem : 
++CMGS: 44
+
+OK
+
+18:24:32,811  INFO LoggingHandler:101 - [id: 0x0450252b] REGISTERED
+18:24:32,816  INFO LoggingHandler:101 - [id: 0x0450252b] BIND: 0.0.0.0/0.0.0.0:8080
+18:24:32,819  INFO LoggingHandler:101 - [id: 0x0450252b, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:24:35,637  INFO LoggingHandler:101 - [id: 0x0450252b, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x47b77dd2, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58183]
+18:24:35,638  INFO LoggingHandler:101 - [id: 0x0450252b, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:24:35,693  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:24:35,864  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:24:36,156  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:24:52,563  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",38
+
+18:24:52,563  INFO SerialWrite:64 - Got SMS
+18:24:52,563  INFO SerialWrite:66 - 38
+
+18:24:52,563  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+CMGR=38
+
+18:24:54,567  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=38
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,18:23:15+28"
+Qhhjjjjjjj
+
+OK
+
+18:24:54,567  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,18:23:15+28"
+Qhhjjjjjjj
+
+OK
+
+18:24:54,567  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+18:24:54,567  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+18:24:54,568  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,18:23:15+28"
+Qhhjjjjjjj
+
+OK
+
+18:24:54,569  INFO SerialWrite:81 - From : +6289655394054 SMS : Qhhjjjjjjj
+18:24:54,570  INFO WebUtil:52 - text=Qhhjjjjjjj%0D%0D%0D&sender=%2B6289655394054
+18:24:54,570  INFO SerialWrite:83 - Param : text=Qhhjjjjjjj%0D%0D%0D&sender=%2B6289655394054
+18:24:54,571  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=Qhhjjjjjjj%0D%0D%0D&sender=%2B6289655394054
+18:24:54,579  INFO LoggingHandler:101 - [id: 0x0450252b, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4298570b, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58185]
+18:24:54,579  INFO LoggingHandler:101 - [id: 0x0450252b, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:24:54,581  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:24:54,581  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTQhhjjjjjjj
+18:24:56,784  INFO HttpAtCommandServerHandler:289 - Total Time Execution : 2203
+18:24:56,787  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  Qhhjjjjjjj | <br><br> URL : http://localhost:8080/reqat?sms=INI+dari+PHPTESTQhhjjjjjjj%0D%0D%0D&destNo=%2B6289655394054<br><br>|Sender : +6289655394054 |SMS :  Qhhjjjjjjj | <br>{"yourRequest":"+6289655394054","status":"0","description":"Success"}
+18:24:57,809  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTQhhjjjjjjj
+> 
+> 
+> 
++CMGS: 45
+
+OK
+
+18:44:25,310  INFO LoggingHandler:101 - [id: 0xefc5c0c0] REGISTERED
+18:44:25,315  INFO LoggingHandler:101 - [id: 0xefc5c0c0] BIND: 0.0.0.0/0.0.0.0:8080
+18:44:25,318  INFO LoggingHandler:101 - [id: 0xefc5c0c0, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:44:28,176  INFO LoggingHandler:101 - [id: 0xefc5c0c0, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xfb95c510, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58247]
+18:44:28,177  INFO LoggingHandler:101 - [id: 0xefc5c0c0, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:44:28,234  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:44:28,410  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:44:28,706  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:46:47,613  INFO SerialWrite:61 - Got Something From Modem : 
++CMTI: "SM",39
+
+18:46:47,613  INFO SerialWrite:65 - Got SMS
+18:46:47,613  INFO SerialWrite:67 - 39
+
+18:46:47,614  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+CMGR=39
+
+18:46:49,616  INFO SerialWrite:61 - Got Something From Modem : at+CMGR=39
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,18:45:10+28"
+.ijiiiiiiiibijinijinjnhj
+
+OK
+
+18:46:49,616  INFO SerialWrite:73 -  "REC UNREAD","+6289655394054",,"17/08/05,18:45:10+28"
+.ijiiiiiiiibijinijinjnhj
+
+OK
+
+18:46:49,616  INFO SerialWrite:76 - arrayConcatMSG : "REC UNREAD"
+18:46:49,616  INFO SerialWrite:76 - arrayConcatMSG :"+6289655394054"
+18:46:49,617  INFO SerialWrite:76 - arrayConcatMSG :,"17/08/05,18:45:10+28"
+.ijiiiiiiiibijinijinjnhj
+
+OK
+
+18:46:49,618  INFO SerialWrite:82 - From : +6289655394054 SMS : .ijiiiiiiiibijinijinjnhj
+18:46:49,619  INFO WebUtil:52 - text=.ijiiiiiiiibijinijinjnhj%0D%0D%0D&sender=%2B6289655394054
+18:46:49,619  INFO SerialWrite:84 - Param : text=.ijiiiiiiiibijinijinjnhj%0D%0D%0D&sender=%2B6289655394054
+18:46:49,620  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=.ijiiiiiiiibijinijinjnhj%0D%0D%0D&sender=%2B6289655394054
+18:46:49,629  INFO LoggingHandler:101 - [id: 0xefc5c0c0, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4130b3c2, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58256]
+18:46:49,629  INFO LoggingHandler:101 - [id: 0xefc5c0c0, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:46:49,631  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:46:49,631  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTEST.ijiiiiiiiibijinijinjnhj
+18:46:51,833  INFO HttpAtCommandServerHandler:289 - Total Time Execution : 2202
+18:46:51,836  INFO SerialWrite:87 - Response From url|Sender : +6289655394054 |SMS :  .ijiiiiiiiibijinijinjnhj | <br><br> URL : http://localhost:8080/reqat?sms=INI+dari+PHPTEST.ijiiiiiiiibijinijinjnhj%0D%0D%0D&destNo=%2B6289655394054<br><br>|Sender : +6289655394054 |SMS :  .ijiiiiiiiibijinijinjnhj | <br>{"yourRequest":"+6289655394054","status":"0","description":"Success"}
+18:46:51,836  INFO HttpAtCommandServerHandler:339 - Command Inserted : AT+CMGD=
+18:46:53,840  INFO SerialWrite:61 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTEST.ijiiiiiiiibijinijinjnhj
+> 
+> 
+> AT+CMGD=
+ERROR
+
++CMGS: 46
+
+OK
+
+18:48:00,325  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:48:00,326  INFO HttpAtCommandServerHandler:218 - AT
+18:48:00,326  INFO HttpAtCommandServerHandler:339 - Command Inserted : AT CMGR="ALL"
+18:48:01,331  INFO SerialWrite:61 - Got Something From Modem : AT CMGR="ALL"
+ERROR
+
+18:48:06,328  INFO HttpAtCommandServerHandler:238 - Concat RespAT CMGR="ALL"
+ERROR
+
+18:51:12,601  INFO LoggingHandler:101 - [id: 0x14f66f84] REGISTERED
+18:51:12,606  INFO LoggingHandler:101 - [id: 0x14f66f84] BIND: 0.0.0.0/0.0.0.0:8080
+18:51:12,609  INFO LoggingHandler:101 - [id: 0x14f66f84, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:51:31,022  INFO LoggingHandler:101 - [id: 0x14f66f84, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x4bb5082a, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58291]
+18:51:31,023  INFO LoggingHandler:101 - [id: 0x14f66f84, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:51:31,583  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:51:31,758  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:51:32,055  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+18:58:08,986  INFO LoggingHandler:101 - [id: 0x3ddd57ee] REGISTERED
+18:58:08,991  INFO LoggingHandler:101 - [id: 0x3ddd57ee] BIND: 0.0.0.0/0.0.0.0:8080
+18:58:08,994  INFO LoggingHandler:101 - [id: 0x3ddd57ee, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:58:26,978  INFO LoggingHandler:101 - [id: 0x3ddd57ee, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x886ac1b1, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58353]
+18:58:26,979  INFO LoggingHandler:101 - [id: 0x3ddd57ee, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:58:27,035  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:58:27,045  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:59:47,529  INFO LoggingHandler:101 - [id: 0xa3b33bed] REGISTERED
+18:59:47,534  INFO LoggingHandler:101 - [id: 0xa3b33bed] BIND: 0.0.0.0/0.0.0.0:8080
+18:59:47,536  INFO LoggingHandler:101 - [id: 0xa3b33bed, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+18:59:49,288  INFO LoggingHandler:101 - [id: 0xa3b33bed, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x542319f1, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58389]
+18:59:49,288  INFO LoggingHandler:101 - [id: 0xa3b33bed, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+18:59:49,343  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+18:59:49,355  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+18:59:54,420  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:16,456  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:17,163  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:17,467  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:17,791  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:18,082  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:18,327  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:27,471  INFO LoggingHandler:101 - [id: 0xcd9cdc7b] REGISTERED
+19:00:27,477  INFO LoggingHandler:101 - [id: 0xcd9cdc7b] BIND: 0.0.0.0/0.0.0.0:8080
+19:00:27,480  INFO LoggingHandler:101 - [id: 0xcd9cdc7b, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+19:00:30,651  INFO LoggingHandler:101 - [id: 0xcd9cdc7b, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xacb403d1, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58424]
+19:00:30,651  INFO LoggingHandler:101 - [id: 0xcd9cdc7b, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+19:00:30,706  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:00:30,880  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+19:01:10,467  INFO LoggingHandler:101 - [id: 0x1edd1249] REGISTERED
+19:01:10,472  INFO LoggingHandler:101 - [id: 0x1edd1249] BIND: 0.0.0.0/0.0.0.0:8080
+19:01:10,475  INFO LoggingHandler:101 - [id: 0x1edd1249, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+19:01:11,943  INFO LoggingHandler:101 - [id: 0x1edd1249, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xc03200f0, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58462]
+19:01:11,945  INFO LoggingHandler:101 - [id: 0x1edd1249, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+19:01:11,999  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:01:12,192  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+19:02:17,219  INFO LoggingHandler:101 - [id: 0x9d31f682] REGISTERED
+19:02:17,224  INFO LoggingHandler:101 - [id: 0x9d31f682] BIND: 0.0.0.0/0.0.0.0:8080
+19:02:17,227  INFO LoggingHandler:101 - [id: 0x9d31f682, L:/0:0:0:0:0:0:0:0:8080] ACTIVE
+19:02:20,760  INFO LoggingHandler:101 - [id: 0x9d31f682, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0x15e12d87, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58500]
+19:02:20,761  INFO LoggingHandler:101 - [id: 0x9d31f682, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+19:02:20,814  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:02:21,155  INFO HttpAtCommandServerHandler:151 - Port COM4 Found,Starting Comm Connection
+19:02:21,449  INFO HttpAtCommandServerHandler:162 - Comm Connection Started
+19:02:44,713  INFO SerialWrite:60 - Got Something From Modem : 
++CMTI: "SM",1
+
+19:02:44,713  INFO SerialWrite:64 - Got SMS
+19:02:44,713  INFO SerialWrite:66 - 1
+
+19:02:44,713  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+CMGR=1
+
+19:02:46,716  INFO SerialWrite:60 - Got Something From Modem : at+CMGR=1
+
++CMGR: "REC UNREAD","+6289655394054",,"17/08/05,19:01:07+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+19:02:46,716  INFO SerialWrite:72 -  "REC UNREAD","+6289655394054",,"17/08/05,19:01:07+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+19:02:46,717  INFO SerialWrite:75 - arrayConcatMSG : "REC UNREAD"
+19:02:46,717  INFO SerialWrite:75 - arrayConcatMSG :"+6289655394054"
+19:02:46,718  INFO SerialWrite:75 - arrayConcatMSG :,"17/08/05,19:01:07+28"
+BMT 081394098892 SN5 7777
+
+OK
+
+19:02:46,719  INFO SerialWrite:81 - From : +6289655394054 SMS : BMT 081394098892 SN5 7777
+19:02:46,720  INFO WebUtil:52 - text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+19:02:46,720  INFO SerialWrite:83 - Param : text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+19:02:46,720  INFO WebUtil:75 - http://localhost/smsTest/test.php?text=BMT+081394098892+SN5+7777%0D%0D%0D&sender=%2B6289655394054
+19:02:46,729  INFO LoggingHandler:101 - [id: 0x9d31f682, L:/0:0:0:0:0:0:0:0:8080] READ: [id: 0xaa0bc5a3, L:/0:0:0:0:0:0:0:1:8080 - R:/0:0:0:0:0:0:0:1:58502]
+19:02:46,730  INFO LoggingHandler:101 - [id: 0x9d31f682, L:/0:0:0:0:0:0:0:0:8080] READ COMPLETE
+19:02:46,731  INFO HttpAtCommandServerHandler:134 - Inside path reqat
+19:02:46,731  INFO HttpAtCommandServerHandler:339 - Command Inserted : at+cmgs="+6289655394054"INI dari PHPTESTBMT 081394098892 SN5 7777
+19:02:48,932  INFO HttpAtCommandServerHandler:289 - Total Time Execution : 2201
+19:02:48,936  INFO SerialWrite:86 - Response From url|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br><br> URL : http://localhost:8080/reqat?sms=INI+dari+PHPTESTBMT+081394098892+SN5+7777%0D%0D%0D&destNo=%2B6289655394054<br><br>|Sender : +6289655394054 |SMS :  BMT 081394098892 SN5 7777 | <br>{"yourRequest":"+6289655394054","status":"0","description":"Success"}
+19:02:49,937  INFO SerialWrite:60 - Got Something From Modem : at+cmgs="+6289655394054"INI dar
+> i PHPTESTBMT 081394098892 SN5 7777
+> 
+> 
+> 
++CMGS: 47
+
+OK
+

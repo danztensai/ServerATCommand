@@ -84,10 +84,15 @@ public class SerialWrite implements Runnable, SerialPortEventListener {
 					GetProperties getProp= new GetProperties();
 					String responseFromServer=WebUtil.getDataFromWeb(getProp.getUrl()+param);
 					log.info("Response From url"+responseFromServer);
+					
 //					String paramSendSMS = WebUtil.createURLSendSMS("Ini SMS yang dari maneh "+sms,sender);
 //					String ResponseFromSMSGtw = WebUtil.getDataFromWeb("http://localhost/smsTest/sendSMS.php?"+param);
 //					log.info("Param SMS Gtw + URL : http://localhost/smsTest/sendSMS.php?"+paramSendSMS);
 //					log.info("Response From SMSGTW : "+ResponseFromSMSGtw);
+				}
+				if(st.contains("+CMGS"))
+				{
+					HttpAtCommandServerHandler.sendCommand("AT+CMGD=1,1");
 				}
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
